@@ -1,0 +1,804 @@
+Animal ID,Animal Name,Species,Primary Breed,Secondary Breed,Date of Birth,Age Group at Intake,Current Status,Current Location,Intake Date,Intake Type,Outcome Date,Outcome Type,Days in Custody,Days Onsite,Days Available
+CCL-A-39,Kenny,Cat,Domestic Medium Hair,,7/7/2020,Adult Cat (5 months-8 years),Unavailable in Shelter - Medical,"Catio Cat Lounge, Lobby",2/14/2023,Stray In,,,1003,1002,527
+CCL-A-37,Jerry,Cat,Domestic Shorthair,,3/17/2022,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Taylor Trojanowski,8/15/2023,Stray In,9/27/2024,Adoption,410,409,358
+CCL-A-41,Maggie,Cat,Domestic Shorthair,,11/2/2009,Senior Cat (8+ years),Healthy In Home,Adopted: Minx Reichard,11/9/2023,Stray In,1/4/2025,Adoption,423,422,422
+CCL-A-55,Orion,Cat,Domestic Shorthair,,10/15/2021,Adult Cat (5 months-8 years),Available In Shelter,"Catio Cat Lounge, Senior Room",11/21/2023,Stray In,,,723,684,684
+CCL-A-66,Talon,Cat,Domestic Longhair,Maine Coon,11/4/2016,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Alexa Denson,12/6/2023,Stray In,7/22/2024,Adoption,230,230,230
+CCL-A-19,Dolly,Cat,Domestic Shorthair,,12/26/2022,Adult Cat (5 months-8 years),Available In Shelter,"Catio Cat Lounge, Main Room",12/31/2023,Stray In,,,683,682,682
+CCL-A-50,Myers,Cat,Domestic Shorthair,,2/1/2023,Adult Cat (5 months-8 years),Available In Shelter,"Catio Cat Lounge, Main Room",12/31/2023,Stray In,,,683,682,682
+CCL-A-29,Herbie,Cat,Domestic Shorthair,,5/5/2020,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Amy Parker,1/7/2024,Stray In,8/13/2024,Adoption,220,219,219
+CCL-A-48,Milo,Cat,Domestic Shorthair,,7/13/2022,Adult Cat (5 months-8 years),Unavailable in Shelter - Medical,"Catio Cat Lounge, Waiting on Transport from Foster",1/7/2024,Stray In,2/8/2025,Adoption,399,398,398
+CCL-A-58,Sabrina,Cat,Domestic Shorthair,,5/27/2023,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Dalal Mohammed,1/23/2024,Stray In,10/7/2024,Adoption,259,259,259
+CCL-A-73,Zillo,Cat,Domestic Shorthair,,5/27/2023,Adult Cat (5 months-8 years),Available In Shelter,"Catio Cat Lounge, Main Room",1/23/2024,Stray In,,,660,660,660
+CCL-A-7,Brie,Cat,Domestic Shorthair,,1/14/2022,Adult Cat (5 months-8 years),Available In Shelter,"Catio Cat Lounge, Main Room",1/24/2024,Stray In,,,659,659,659
+CCL-A-60,Slash,Cat,Domestic Shorthair,,10/16/2015,Senior Cat (8+ years),Healthy In Home,Adopted: Cayla Jolly,1/30/2024,Stray In,9/25/2024,Adoption,240,240,240
+CCL-A-13,Butterball,Cat,Domestic Shorthair,,2/23/2017,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Phyllis  MITCHELL,2/7/2024,Stray In,6/6/2025,Adoption,486,485,485
+CCL-A-20,Duke,Cat,Domestic Shorthair,,2/6/2019,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Tara Little,2/7/2024,Stray In,11/16/2024,Adoption,284,283,283
+CCL-A-33,Jagger,Cat,Domestic Shorthair,,11/29/2021,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Kat Montgomery,2/23/2024,Stray In,8/20/2024,Adoption,180,179,179
+CCL-A-59,Salem,Cat,Domestic Shorthair,,9/4/2013,Senior Cat (8+ years),Healthy In Home,Adopted: Rachel Simonton,3/2/2024,Stray In,8/8/2024,Adoption,160,160,160
+CCL-A-11,Bubbles,Cat,Domestic Shorthair,,12/1/2021,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Jane Bickford,3/5/2024,Stray In,2/11/2025,Adoption,344,344,344
+CCL-A-8,Balou,Cat,Domestic Shorthair,,3/7/2017,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Susan Stockell,3/7/2024,Stray In,8/20/2024,Adoption,167,167,167
+CCL-A-2,Asher,Cat,Domestic Shorthair,,3/12/2023,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Sandra Decker,3/18/2024,Stray In,10/15/2024,Adoption,212,212,212
+CCL-A-16,Clarence,Cat,Domestic Shorthair,,3/12/2023,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Sandra Decker,3/18/2024,Stray In,10/15/2024,Adoption,212,212,212
+CCL-A-30,Hickory,Cat,Domestic Shorthair,,6/4/2023,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Linay Verge,4/3/2024,Stray In,7/30/2024,Adoption,119,118,118
+CCL-A-5,Cedar,Cat,Domestic Shorthair,,6/4/2023,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Linay Verge,4/4/2024,Stray In,10/5/2024,Adoption,185,185,185
+CCL-A-17,Coot,Cat,Siamese,,6/1/2020,Adult Cat (5 months-8 years),Deceased,N/A,4/4/2024,Stray In,7/28/2024,Euthanasia,116,112,113
+CCL-A-62,Smokey Bear,Cat,Domestic Shorthair,,10/7/2015,Senior Cat (8+ years),Healthy In Home,Adopted: Benjamin  Dunleavy,4/5/2024,Stray In,6/21/2025,Adoption,443,443,443
+CCL-A-63,Sparky,Cat,Domestic Shorthair,,2/15/2023,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Rita Fenstermacher,4/5/2024,Stray In,7/17/2024,Adoption,104,104,104
+CCL-A-70,Violet,Cat,Domestic Shorthair,,3/1/2012,Senior Cat (8+ years),Healthy In Home,Adopted: Angela Hawks,4/10/2024,Stray In,10/28/2024,Adoption,202,202,202
+CCL-A-1,Alice,Cat,Domestic Shorthair,,4/16/2014,Senior Cat (8+ years),Deceased,Euthanased,4/18/2024,Stray In,7/14/2024,Euthanasia,88,88,88
+CCL-A-40,Lemon,Cat,Domestic Shorthair,,3/25/2021,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Audra Davis,4/18/2024,Stray In,9/14/2024,Adoption,150,149,149
+CCL-A-43,Mango,Cat,Domestic Shorthair,,3/25/2021,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Stephanie Sanders,4/18/2024,Stray In,1/4/2025,Adoption,262,261,261
+CCL-A-241,Inky,Cat,Domestic Shorthair,,5/4/2024,Unweaned (0-6 weeks),Healthy In Home,Adopted: Julie Burnette,5/4/2024,Stray In,10/2/2024,Adoption,152,152,152
+CCL-A-71,Walter,Cat,Domestic Shorthair,,12/11/2016,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Margaret (Jane) Stephenson,5/5/2024,Stray In,9/3/2024,Adoption,122,122,122
+CCL-A-26,Grady,Cat,Domestic Shorthair,,5/9/2012,Senior Cat (8+ years),Healthy In Home,Adopted: Colin Lancaster,5/8/2024,Stray In,9/18/2024,Adoption,134,133,133
+CCL-A-21,Dusk,Cat,Domestic Shorthair,,4/5/2023,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Erica Edwards,5/12/2024,Stray In,7/21/2024,Adoption,71,70,70
+CCL-A-47,Millie,Cat,Domestic Shorthair,,12/27/2023,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Dakota Douglas,5/18/2024,Stray In,10/26/2024,Adoption,162,161,161
+CCL-A-61,Smokey,Cat,Domestic Shorthair,,5/20/2023,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Allison Daniel,5/20/2024,Stray In,9/18/2024,Adoption,122,122,122
+CCL-A-10,Betty,Cat,Domestic Shorthair,,11/20/2022,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Collin Shipley,5/20/2024,Stray In,9/25/2024,Adoption,129,129,129
+CCL-A-32,Impa,Cat,Domestic Shorthair,,5/17/2015,Senior Cat (8+ years),Unavailable Foster - Medical,Foster Care: Derrek Clay,5/20/2024,Stray In,,,542,71,64
+CCL-A-54,Orange,Cat,Domestic Shorthair,,3/25/2021,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Stephanie Sanders,5/25/2024,Stray In,1/4/2025,Adoption,225,225,225
+CCL-A-53,Omega,Cat,Domestic Shorthair,,2/23/2024,Kitten (6 weeks-5 months),Available In Shelter,"Catio Cat Lounge, Main Room",5/30/2024,Stray In,,,532,532,526
+CCL-A-64,Sweetie,Cat,Domestic Shorthair,,2/23/2024,Kitten (6 weeks-5 months),Available In Shelter,"Catio Cat Lounge, Main Room",5/30/2024,Stray In,,,532,532,532
+CCL-A-34,Jasmine,Cat,Domestic Shorthair,,5/8/2015,Senior Cat (8+ years),Healthy In Home,Adopted: Carolyn Heinrich,5/30/2024,Stray In,9/8/2024,Adoption,102,101,101
+CCL-A-38,Josie,Cat,Domestic Shorthair,,5/8/2014,Senior Cat (8+ years),Healthy In Home,Adopted: Carolyn Heinrich,5/30/2024,Stray In,9/8/2024,Adoption,102,101,101
+CCL-A-65,Tabitha,Cat,Domestic Shorthair,,5/31/2020,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Luke Bartlett,5/31/2024,Stray In,9/18/2024,Adoption,111,111,111
+CCL-A-28,Gus Gus,Cat,Domestic Shorthair,,6/2/2013,Senior Cat (8+ years),Healthy In Home,Adopted: Lynn Yafchak,6/1/2024,Stray In,10/14/2024,Adoption,136,135,135
+CCL-A-52,Ollie,Cat,Domestic Shorthair,,10/1/2023,Adult Cat (5 months-8 years),Available In Shelter,"Catio Cat Lounge, Main Room",6/2/2024,Stray In,,,529,529,529
+CCL-A-4,Criminal,Cat,Domestic Shorthair,,11/15/2022,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Shyanne Baker,6/3/2024,Stray In,9/18/2024,Adoption,108,108,108
+CCL-A-14,Cali,Cat,Domestic Shorthair,,5/29/2023,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Tammy Dunn,6/9/2024,Stray In,9/18/2024,Adoption,102,102,102
+CCL-A-138,Gelda,Cat,Domestic Medium Hair,,4/27/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Andrew Hunt,6/9/2024,Stray In,1/20/2025,Adoption,226,27,27
+CCL-A-31,Iggy,Cat,Domestic Shorthair,,7/4/2023,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Linay Verge,6/9/2024,Stray In,11/13/2024,Adoption,158,157,157
+CCL-A-72,Ziggy,Cat,Domestic Shorthair,,7/4/2023,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Mason Wilkinson,6/10/2024,Stray In,9/6/2024,Adoption,89,89,89
+CCL-A-6,Brittle (Max),Cat,Domestic Shorthair,,4/2/2022,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Jakyrah Harris,6/10/2024,Stray In,9/18/2024,Adoption,101,101,101
+CCL-A-68,Timmy,Cat,Domestic Shorthair,,7/18/2022,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Sophia Gatrell,6/15/2024,Stray In,8/4/2024,Adoption,51,51,51
+CCL-A-25,George,Cat,Domestic Shorthair,,5/29/2022,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Victor Velasco,6/15/2024,Stray In,8/14/2024,Adoption,61,60,60
+CCL-A-74,Freyja (Juicy Fruit),Cat,Domestic Shorthair,,3/18/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Michelle Green,6/18/2024,Stray In,9/24/2024,Adoption,99,99,99
+CCL-A-46,Meow Meow,Cat,Domestic Shorthair,,6/19/2020,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Vaughn Griggs,6/18/2024,Stray In,9/25/2024,Adoption,100,89,82
+CCL-A-49,Molly,Cat,Domestic Shorthair,,6/19/2022,Adult Cat (5 months-8 years),Healthy In Home,Adopted: David Hill,6/20/2024,Stray In,10/23/2024,Adoption,126,125,125
+CCL-A-18,Daisy,Cat,Domestic Shorthair,,3/30/2024,Kitten (6 weeks-5 months),Lost/Stolen,Lost/Stolen,6/21/2024,Stray In,7/4/2024,Lost/Stolen,14,13,13
+CCL-A-22,Elaine (Lanny),Cat,Domestic Shorthair,,3/7/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Evelyn Penaloza,6/21/2024,Stray In,7/26/2024,Adoption,36,35,35
+CCL-A-24,Gigi,Cat,Domestic Shorthair,,11/30/2020,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Kira Palmiter,6/21/2024,Stray In,1/30/2025,Adoption,224,223,223
+CCL-A-76,Leo,Cat,Domestic Shorthair,,2/28/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Evelyn Penaloza,6/28/2024,Stray In,7/26/2024,Adoption,29,29,29
+CCL-A-137,Bobert,Cat,Domestic Shorthair,,6/7/2024,Unweaned (0-6 weeks),Healthy In Home,Adopted: Andrew Hunt,6/29/2024,Stray In,1/20/2025,Adoption,206,27,27
+CCL-A-75,Lilah,Cat,Domestic Shorthair,,3/16/2022,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Alonzo Jones,7/1/2024,Stray In,8/16/2024,Adoption,47,47,47
+CCL-A-83,Bruiser,Cat,Domestic Shorthair,,6/6/2021,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Kira Palmiter,7/1/2024,Stray In,9/27/2024,Adoption,89,89,89
+CCL-A-84,Eminem,Cat,Domestic Shorthair,,6/25/2021,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Katherine Paulin,7/4/2024,Stray In,9/14/2024,Adoption,73,73,73
+CCL-A-82,Inky,Cat,Domestic Shorthair,,8/21/2021,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Victoria Vanderford,7/5/2024,Stray In,8/5/2024,Adoption,32,32,32
+CCL-A-77,Binky,Cat,Domestic Shorthair,,8/21/2021,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Amy Parker,7/5/2024,Stray In,8/13/2024,Adoption,40,40,40
+CCL-A-79,Gray,Cat,Domestic Shorthair,,1/5/2023,Adult Cat (5 months-8 years),Available In Shelter,"Catio Cat Lounge, Main Room",7/5/2024,Stray In,,,496,496,496
+CCL-A-85,Moon,Cat,Domestic Shorthair,,3/20/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: benicia pinzone,7/7/2024,Stray In,11/14/2024,Adoption,131,131,84
+CCL-A-86,Tess,Cat,Domestic Shorthair,,3/20/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Madison Crawford,7/7/2024,Stray In,11/2/2024,Adoption,119,103,91
+CCL-A-87,Pepper,Cat,Domestic Shorthair,,3/20/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Kaelen Frye,7/7/2024,Stray In,7/22/2024,Adoption,16,16,4
+CCL-A-88,Pete,Cat,Domestic Shorthair,,3/20/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Marina Nichols,7/7/2024,Stray In,7/21/2024,Adoption,15,15,3
+CCL-A-89,Scout,Cat,Domestic Longhair,,3/10/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Sara Sutton,7/7/2024,Stray In,7/21/2024,Adoption,15,15,3
+CCL-A-90,Milo,Cat,Domestic Longhair,,3/10/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Jonathan McGraw,7/7/2024,Stray In,7/30/2024,Adoption,24,24,12
+CCL-A-91,Star,Cat,Domestic Longhair,,3/13/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Allison Lansdell,7/7/2024,Stray In,7/22/2024,Adoption,16,16,4
+CCL-A-92,Shiloh,Cat,Domestic Medium Hair,,3/13/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Abbie Carter,7/7/2024,Stray In,8/9/2024,Adoption,34,34,22
+CCL-A-93,Shea,Cat,Domestic Longhair,,3/13/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Erica Edwards,7/7/2024,Stray In,7/21/2024,Adoption,15,15,3
+CCL-A-94,Petal,Cat,Domestic Shorthair,,4/4/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Paige Clark,7/7/2024,Stray In,8/6/2024,Adoption,31,20,7
+CCL-A-95,Blossom,Cat,Domestic Shorthair,,4/4/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Sabrina Hernandez,7/7/2024,Stray In,8/1/2024,Adoption,26,15,2
+CCL-A-96,Rose,Cat,Domestic Shorthair,,4/4/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Brandon White,7/7/2024,Stray In,8/6/2024,Adoption,31,20,8
+CCL-A-97,fake cat,Cat,Bengal,,4/4/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Carrie Patterson,7/9/2024,Stray In,7/9/2024,Adoption,1,1,1
+CCL-A-109,Missy,Cat,Domestic Shorthair,,1/19/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Austin Johnson,7/9/2024,Stray In,8/5/2024,Adoption,28,28,28
+CCL-A-108,Cedric,Cat,Domestic Shorthair,,11/19/2023,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Amanda Matney,7/9/2024,Stray In,7/27/2024,Adoption,19,11,11
+CCL-A-110,Tater,Cat,Domestic Shorthair,,4/15/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Connie Purdue,7/13/2024,Stray In,9/18/2024,Adoption,68,68,68
+CCL-A-106,Titus,Cat,Domestic Shorthair,,4/11/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Randy Reynolds,7/13/2024,Stray In,7/22/2024,Adoption,10,10,10
+CCL-A-98,Finn,Cat,Domestic Shorthair,,4/30/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Rory Edmonds,7/16/2024,Stray In,8/4/2024,Adoption,20,20,20
+CCL-A-101,Nova,Cat,Domestic Shorthair,,4/30/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Kimberly Stokes,7/16/2024,Stray In,8/24/2024,Adoption,40,40,40
+CCL-A-102,Kermit,Cat,Domestic Shorthair,,4/30/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Cameron Watts,7/16/2024,Stray In,7/29/2024,Adoption,14,14,14
+CCL-A-103,Dobby,Cat,Domestic Shorthair,,4/30/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Devin Jean,7/16/2024,Stray In,8/11/2024,Adoption,27,27,27
+CCL-A-104,Merlin,Cat,Domestic Shorthair,,5/19/2023,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Genny Erickson,7/16/2024,Stray In,7/23/2024,Adoption,8,8,8
+CCL-A-105,Snowflake,Cat,Domestic Shorthair,,5/16/2023,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Mary Gregory,7/16/2024,Stray In,7/31/2024,Adoption,16,16,16
+CCL-A-99,Audrey,Cat,Domestic Shorthair,,5/1/2023,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Alicia Hirt,7/17/2024,Stray In,1/2/2025,Adoption,170,170,170
+CCL-A-100,Potter,Cat,Domestic Shorthair,,5/26/2023,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Alicia Hirt,7/17/2024,Stray In,1/2/2025,Adoption,170,156,151
+CCL-A-107,Taylor,Cat,Domestic Shorthair,,4/11/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Amanda Fletcher,7/19/2024,Stray In,7/22/2024,Adoption,4,4,4
+CCL-A-111,Toulouse,Cat,Domestic Shorthair,,4/16/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Abby Levesque,7/21/2024,Stray In,8/6/2024,Adoption,17,17,17
+CCL-A-112,Royal,Cat,Domestic Shorthair,,4/16/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Regina Thompson,7/21/2024,Stray In,8/10/2024,Adoption,21,21,21
+CCL-A-113,Henry Clay,Cat,Domestic Shorthair,,4/16/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Hannah Lomzenski,7/21/2024,Stray In,8/12/2024,Adoption,23,23,23
+CCL-A-115,Spot,Cat,Domestic Shorthair,,8/14/2019,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Chandler Gory,7/22/2024,Owner Surrender,10/19/2024,Adoption,90,90,83
+CCL-A-114,Creamy,Cat,Domestic Shorthair,,4/17/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Lia Vittone,7/22/2024,Stray In,8/2/2024,Adoption,12,12,12
+CCL-A-116,Cooper,Cat,Domestic Shorthair,,8/12/2019,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Lori Paden,7/22/2024,Owner Surrender,9/12/2024,Adoption,53,53,45
+CCL-A-118,Mac,Cat,Domestic Medium Hair,,4/13/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Paige Dudek,7/24/2024,Stray In,7/31/2024,Adoption,8,8,8
+CCL-A-117,Emmaline,Cat,Domestic Shorthair,,11/7/2022,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Rex Li,7/24/2024,Stray In,8/17/2024,Adoption,25,25,25
+CCL-A-119,Punky,Cat,Domestic Shorthair,,4/17/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Amanda Salvatore,7/25/2024,Stray In,8/3/2024,Adoption,10,10,10
+CCL-A-120,Chicken Biscuit,Cat,Domestic Medium Hair,,4/17/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Harriet Blaine,7/25/2024,Stray In,8/10/2024,Adoption,17,17,17
+CCL-A-121,Sunny,Cat,Domestic Shorthair,,4/17/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Amanda Salvatore,7/25/2024,Stray In,8/3/2024,Adoption,10,10,10
+CCL-A-122,Mama Streets (Jinx),Cat,Domestic Shorthair,,8/30/2019,Adult Cat (5 months-8 years),Available In Shelter,"Catio Cat Lounge, Main Room",7/28/2024,Owner Surrender,,,473,473,468
+CCL-A-123,Kimmy,Cat,Domestic Shorthair,,3/1/2023,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Lisa Fosler,7/30/2024,Stray In,2/4/2025,Adoption,190,190,157
+CCL-A-124,Clementine,Cat,Domestic Shorthair,,3/16/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Kyle Nicholson,7/30/2024,Transfer In,8/1/2024,Adoption,3,2,2
+CCL-A-125,Jene,Cat,Domestic Shorthair,,4/4/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Jessica Grindle,7/30/2024,Transfer In,8/11/2024,Adoption,13,12,12
+CCL-A-126,Jorge,Cat,Domestic Shorthair,,3/16/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Samantha Tafoya,7/30/2024,Transfer In,11/9/2024,Adoption,103,98,13
+CCL-A-127,Adam,Cat,Domestic Shorthair,,4/4/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Harriet Blaine,7/30/2024,Transfer In,8/10/2024,Adoption,12,11,11
+CCL-A-128,Zach,Cat,Domestic Shorthair,,4/4/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Jennifer Qualls,7/30/2024,Transfer In,8/9/2024,Adoption,11,10,10
+CCL-A-129,Renley,Cat,Domestic Shorthair,,6/4/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Anthony Curcio,10/31/2024,Transfer In,1/28/2025,Adoption,90,89,52
+CCL-A-130,Jodie,Cat,Domestic Shorthair,,4/14/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Kathleen Barber,7/30/2024,Transfer In,10/26/2024,Adoption,89,25,10
+CCL-A-131,Herby,Cat,Domestic Shorthair,,3/16/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Aaron Traylor,7/30/2024,Transfer In,9/29/2024,Adoption,62,43,28
+CCL-A-132,Dobby,Cat,Domestic Shorthair,,4/28/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Abby Levesque,7/30/2024,Transfer In,8/6/2024,Adoption,8,7,7
+CCL-A-133,Val,Cat,Domestic Shorthair,,4/1/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Jessica Younker,7/31/2024,Stray In,8/1/2024,Adoption,2,2,2
+CCL-A-134,Trinity,Cat,Domestic Shorthair,,4/1/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Jessica Younker,7/31/2024,Stray In,8/1/2024,Adoption,2,2,2
+CCL-A-135,Karen,Cat,Domestic Medium Hair,,4/18/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Rebecca Batson,7/31/2024,Stray In,7/31/2024,Adoption,1,1,1
+CCL-A-136,Taylor,Cat,Domestic Shorthair,,4/13/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Michael Kokodynsky,7/31/2024,Stray In,9/23/2024,Adoption,55,22,22
+CCL-A-139,Kevin,Cat,Domestic Shorthair,,4/18/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Abby Anglum,8/3/2024,Stray In,8/3/2024,Adoption,1,1,1
+CCL-A-153,Mace,Cat,Domestic Shorthair,,5/6/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Claire Jarvis,8/4/2024,Stray In,8/9/2024,Adoption,6,6,6
+CCL-A-154,Dill,Cat,Domestic Shorthair,,5/6/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Lisa Lewis,8/4/2024,Stray In,8/10/2024,Adoption,7,7,7
+CCL-A-143,Mister George,Cat,Domestic Shorthair,,5/17/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Jacob Friedmann,8/5/2024,Stray In,1/21/2025,Adoption,170,170,170
+CCL-A-144,Ozzy,Cat,Domestic Shorthair,,5/10/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Amanda Nance,8/5/2024,Stray In,8/20/2024,Adoption,16,16,16
+CCL-A-145,Casey,Cat,Domestic Shorthair,,4/10/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Jacob Friedmann,8/5/2024,Stray In,1/21/2025,Adoption,170,170,170
+CCL-A-142,Zoe,Cat,Domestic Shorthair,,4/5/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Sandy Mathers,8/5/2024,Stray In,8/13/2024,Adoption,9,9,9
+CCL-A-146,Carrot,Cat,Domestic Shorthair,,10/10/2023,Adult Cat (5 months-8 years),Available In Shelter,"Catio Cat Lounge, Main Room",8/5/2024,Stray In,,,465,464,464
+CCL-A-147,Angel,Cat,Domestic Shorthair,,3/1/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Samantha Jackson,8/6/2024,Stray In,8/11/2024,Adoption,6,6,6
+CCL-A-94,Petal,Cat,Domestic Shorthair,,4/4/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Paige Clark,8/6/2024,Adoption Return,9/3/2024,Adoption,29,29,29
+CCL-A-148,Solomon,Cat,Domestic Medium Hair,,4/1/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: courtney hadden,8/8/2024,Stray In,8/23/2024,Adoption,16,16,16
+CCL-A-149,Ancho,Cat,Domestic Shorthair,,5/6/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Steven Cross,8/8/2024,Stray In,8/8/2024,Adoption,1,1,1
+CCL-A-150,Rosemary,Cat,Domestic Shorthair,,5/6/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Charlie Anderson,8/8/2024,Stray In,10/20/2024,Adoption,74,56,55
+CCL-A-151,Basil,Cat,Domestic Shorthair,,5/6/2024,Kitten (6 weeks-5 months),Deceased,Died,8/8/2024,Stray In,8/27/2024,Unassisted Death in Custody,20,1,0
+CCL-A-152,Saffron,Cat,Domestic Shorthair,,5/6/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Caroline Pfeiffer,8/8/2024,Stray In,8/27/2024,Adoption,20,2,1
+CCL-A-155,Mishu,Cat,Domestic Medium Hair,,4/15/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Timbre Cierpke,8/13/2024,Stray In,8/13/2024,Adoption,1,1,1
+CCL-A-156,Keepsake,Cat,Domestic Shorthair,,4/18/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Becky Chandler,8/13/2024,Stray In,11/27/2024,Adoption,107,51,51
+CCL-A-157,Moon,Cat,Domestic Shorthair,,4/18/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Amanda Nance,8/13/2024,Stray In,8/20/2024,Adoption,8,8,8
+CCL-A-158,Star,Cat,Domestic Shorthair,,4/18/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Becky Chandler,8/13/2024,Stray In,11/27/2024,Adoption,107,51,51
+CCL-A-159,Cheeseburger,Cat,Domestic Shorthair,,4/16/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Rachel Boyce,8/15/2024,Stray In,8/30/2024,Adoption,16,16,1
+CCL-A-160,Bolt,Cat,Domestic Shorthair,,3/1/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Mason Wilkinson,8/15/2024,Stray In,9/6/2024,Adoption,23,23,23
+CCL-A-161,Sonny,Cat,Domestic Shorthair,,4/5/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Kaitlyn Tokarz,8/16/2024,Stray In,8/19/2024,Adoption,4,4,4
+CCL-A-162,Willie Nelson,Cat,Domestic Shorthair,,5/16/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Alli Lapps,8/16/2024,Stray In,9/7/2024,Adoption,23,23,23
+CCL-A-163,Jacob,Cat,Domestic Shorthair,,6/6/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Bowen Wang,8/16/2024,Stray In,8/20/2024,Adoption,5,5,5
+CCL-A-164,Sasha,Cat,Domestic Shorthair,,5/3/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Julie Rosof-Williams,8/16/2024,Stray In,8/31/2024,Adoption,16,16,16
+CCL-A-165,Mimi,Cat,Domestic Shorthair,,5/3/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Sophie Cape,8/16/2024,Stray In,8/27/2024,Adoption,12,12,12
+CCL-A-166,Fritz,Cat,Domestic Shorthair,,5/3/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Denise Hayes,8/16/2024,Stray In,8/23/2024,Adoption,8,8,8
+CCL-A-167,O'Malley,Cat,Domestic Shorthair,,4/8/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Julie Benac,8/17/2024,Stray In,8/21/2024,Adoption,5,5,5
+CCL-A-169,Sirius,Cat,Domestic Medium Hair,,4/8/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Amanda Nance,8/17/2024,Stray In,8/20/2024,Adoption,4,4,4
+CCL-A-170,Sasha,Cat,Domestic Shorthair,,4/8/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Madison Sapp,8/17/2024,Stray In,8/26/2024,Adoption,10,10,10
+CCL-A-171,Pepe,Cat,Domestic Shorthair,,5/23/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Amanda Dobra-Troyan,8/17/2024,Stray In,8/23/2024,Adoption,7,7,7
+CCL-A-172,Azn,Cat,Domestic Shorthair,Siamese,5/23/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Phillip Thames,8/17/2024,Stray In,8/26/2024,Adoption,10,10,10
+CCL-A-173,Pattie,Cat,Domestic Shorthair,,6/29/2014,Senior Cat (8+ years),Healthy In Home,Adopted: Kat Trimmer,8/17/2024,Stray In,9/3/2024,Adoption,18,18,18
+CCL-A-174,Cedar,Cat,Domestic Shorthair,,12/5/2022,Adult Cat (5 months-8 years),Healthy In Home,Adopted: mike peterson,8/20/2024,Stray In,8/31/2024,Adoption,12,12,12
+CCL-A-175,Dory,Cat,Domestic Shorthair,,4/30/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Julie Rosof-Williams,8/21/2024,Stray In,8/31/2024,Adoption,11,11,11
+CCL-A-176,Clover,Cat,Domestic Shorthair,,4/30/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Hayley Clark,8/21/2024,Stray In,8/30/2024,Adoption,10,10,10
+CCL-A-177,Obi Wan,Cat,Domestic Shorthair,,4/30/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Lynette Milliken,8/21/2024,Stray In,10/18/2024,Adoption,59,59,59
+CCL-A-178,Elmo,Cat,Domestic Shorthair,,8/29/2023,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Carrie Raymond,8/21/2024,Stray In,9/21/2024,Adoption,32,32,32
+CCL-A-181,Velvet,Cat,Domestic Shorthair,,5/20/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Tara DiGiovacchino,8/22/2024,Stray In,8/25/2024,Adoption,4,4,4
+CCL-A-185,Marceline,Cat,Domestic Shorthair,,1/15/2022,Adult Cat (5 months-8 years),Available In Shelter,"Catio Cat Lounge, Main Room",8/23/2024,Owner Surrender,,,447,447,447
+CCL-A-180,Freda,Cat,Domestic Shorthair,,5/14/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Amanda Alberto,8/23/2024,Stray In,8/26/2024,Adoption,4,4,4
+CCL-A-182,Astro,Cat,Domestic Shorthair,,5/24/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Michelle Kelly,8/24/2024,Stray In,8/31/2024,Adoption,8,8,8
+CCL-A-183,Licorice,Cat,Domestic Medium Hair,,5/24/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Tara DiGiovacchino,8/24/2024,Stray In,8/25/2024,Adoption,2,2,2
+CCL-A-184,Gray,Cat,Domestic Longhair,,8/24/2020,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Madison Sapp,8/24/2024,Owner Surrender,8/26/2024,Adoption,3,3,1
+CCL-A-75,Lilah,Cat,Domestic Shorthair,,3/16/2022,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Alonzo Jones,8/24/2024,Adoption Return,8/26/2024,Adoption,3,3,3
+CCL-A-186,Baby,Cat,Domestic Shorthair,,8/20/2022,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Ian Junker,8/26/2024,Stray In,1/7/2025,Adoption,135,123,121
+CCL-A-187,Striper,Cat,Domestic Shorthair,,8/20/2022,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Ian Junker,8/26/2024,Stray In,1/7/2025,Adoption,135,135,119
+CCL-A-188,Ping,Cat,Domestic Longhair,,8/22/2023,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Tara Bowen,8/26/2024,Stray In,9/4/2024,Adoption,10,10,9
+CCL-A-189,Pong,Cat,Domestic Longhair,,8/22/2023,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Leah Nelson,8/26/2024,Stray In,9/3/2024,Adoption,9,9,8
+CCL-A-30,Hickory,Cat,Domestic Shorthair,,6/4/2023,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Linay Verge,8/27/2024,Adoption Return,10/5/2024,Adoption,40,40,40
+CCL-A-190,Smokey,Cat,Domestic Shorthair,,8/28/2019,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Susan Long,8/28/2024,Owner Surrender,10/22/2024,Adoption,56,56,56
+CCL-A-191,Ares,Cat,Domestic Shorthair,,8/23/2020,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Price Carney,8/29/2024,Stray In,11/9/2024,Adoption,73,73,73
+CCL-A-194,Nick,Cat,Domestic Medium Hair,,7/13/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: jordan Henson,8/29/2024,Stray In,10/6/2024,Adoption,39,11,10
+CCL-A-195,Ebony,Cat,Domestic Medium Hair,,8/27/2022,Adult Cat (5 months-8 years),Healthy In Home,Adopted: April Tenney,8/29/2024,Stray In,9/14/2024,Adoption,17,7,7
+CCL-A-196,Leon,Cat,Domestic Shorthair,,7/6/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Scott Brewer,8/29/2024,Stray In,10/4/2024,Adoption,37,29,29
+CCL-A-197,Lexi,Cat,Domestic Shorthair,,7/6/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Casey McCormick,8/29/2024,Stray In,9/13/2024,Adoption,16,10,10
+CCL-A-198,Lori,Cat,Domestic Shorthair,,7/6/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Matt Haskell,8/29/2024,Stray In,9/14/2024,Adoption,17,11,11
+CCL-A-199,Matilda,Cat,Domestic Medium Hair,,5/23/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Cayla Jolly,8/31/2024,Stray In,9/25/2024,Adoption,26,26,26
+CCL-A-200,Remmy,Cat,Domestic Shorthair,,2/22/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Blaze Elliott,8/31/2024,Stray In,8/31/2024,Adoption,1,1,1
+CCL-A-201,Pricilla,Cat,Domestic Shorthair,,5/28/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Trina Ethier,9/1/2024,Stray In,9/29/2024,Adoption,29,13,13
+CCL-A-202,Spice,Cat,Domestic Shorthair,,5/30/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Kaylee Miller,9/3/2024,Transfer In,9/3/2024,Adoption,1,1,1
+CCL-A-203,Pumpkin,Cat,Domestic Shorthair,,5/30/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Lena Flebotte,9/3/2024,Transfer In,9/4/2024,Adoption,2,2,2
+CCL-A-204,June,Cat,Domestic Shorthair,,5/30/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Ryan Ulrich,9/3/2024,Transfer In,9/10/2024,Adoption,8,8,8
+CCL-A-205,Almond,Cat,Domestic Shorthair,,4/24/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Mary Mitchell,9/3/2024,Transfer In,9/6/2024,Adoption,4,4,4
+CCL-A-206,Cashew,Cat,Domestic Shorthair,,4/24/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Sara Megown,9/3/2024,Transfer In,9/5/2024,Adoption,3,3,3
+CCL-A-213,Frankie,Cat,Domestic Shorthair,,6/23/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Donnie Rickmyre,9/5/2024,Stray In,9/19/2024,Adoption,15,15,15
+CCL-A-207,Seraphim,Cat,Domestic Medium Hair,,8/22/2021,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Taylor Fawcett,9/5/2024,Stray In,10/1/2024,Adoption,27,27,27
+CCL-A-208,Olive (Atticus),Cat,Domestic Shorthair,,3/17/2021,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Katie Price,9/5/2024,Owner Surrender,7/7/2025,Adoption,306,306,304
+CCL-A-209,Baxter,Cat,Domestic Shorthair,,6/4/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Emma Huchingson,9/5/2024,Stray In,9/25/2024,Adoption,21,21,21
+CCL-A-210,Bianca,Cat,Domestic Shorthair,,6/18/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Ashley Clark,9/5/2024,Stray In,9/8/2024,Adoption,4,4,4
+CCL-A-211,Woody,Cat,Domestic Shorthair,,6/8/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Amy Rusley,9/5/2024,Stray In,9/22/2024,Adoption,18,17,17
+CCL-A-212,Jessie,Cat,Domestic Shorthair,,6/7/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Amy Rusley,9/6/2024,Stray In,9/13/2024,Adoption,8,8,8
+CCL-A-214,Licorice,Cat,Domestic Shorthair,,5/31/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Donnie Rickmyre,9/6/2024,Stray In,9/19/2024,Adoption,14,14,14
+CCL-A-215,Thumbalina,Cat,Domestic Shorthair,,5/24/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Bonnie Bielec,9/7/2024,Stray In,11/15/2024,Adoption,70,69,48
+CCL-A-216,Elvis,Cat,Domestic Shorthair,,5/31/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Trina Ethier,9/7/2024,Stray In,9/29/2024,Adoption,23,23,18
+CCL-A-218,Test Cat,Cat,Domestic Shorthair,,4/30/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Autumn Jackson,9/9/2024,Stray In,9/10/2024,Adoption,2,2,2
+CCL-A-217,Walter,Cat,Domestic Shorthair,,6/6/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: David Rinker,9/10/2024,Stray In,9/20/2024,Adoption,11,11,9
+CCL-A-219,Peanut,Cat,Domestic Shorthair,,5/27/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: April Joles,9/10/2024,Stray In,9/25/2024,Adoption,16,16,16
+CCL-A-220,Brinley,Cat,Domestic Shorthair,,10/1/2022,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Kat Trimmer,9/18/2024,Transfer In,4/29/2025,Adoption,224,175,175
+CCL-A-221,Cheeto,Cat,Domestic Shorthair,,5/23/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Emily Kolb,9/18/2024,Stray In,9/30/2024,Adoption,13,13,13
+CCL-A-222,Dorito,Cat,Domestic Shorthair,,5/23/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Emily Kolb,9/18/2024,Stray In,9/30/2024,Adoption,13,13,13
+CCL-A-223,Mrs. Vee,Cat,Domestic Shorthair,,9/20/2022,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Elijah Huggins,9/20/2024,Transfer In,12/26/2024,Adoption,98,98,98
+CCL-A-224,Mango,Cat,Domestic Shorthair,,5/2/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Rachel Caldwell,9/20/2024,Transfer In,9/30/2024,Adoption,11,11,11
+CCL-A-225,Miley Cyrus,Cat,Domestic Shorthair,,4/14/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Kara Maggard,9/20/2024,Transfer In,9/23/2024,Adoption,4,4,4
+CCL-A-226,Smokey,Cat,Domestic Shorthair,,5/2/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Heidi Sherwood,9/20/2024,Transfer In,10/4/2024,Adoption,15,15,15
+CCL-A-227,Dumpling,Cat,Domestic Shorthair,,6/23/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: suzanne hollingsworth,9/20/2024,Stray In,9/21/2024,Adoption,2,2,2
+CCL-A-84,Eminem,Cat,Domestic Shorthair,,6/25/2021,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Katherine Paulin,9/21/2024,Adoption Return,1/23/2025,Adoption,125,125,113
+CCL-A-228,Taylor,Cat,Domestic Shorthair,,4/1/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Cayla Stutsman,9/21/2024,Transfer In,9/21/2024,Adoption,1,1,1
+CCL-A-198,Lori,Cat,Domestic Shorthair,,7/6/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Matt Haskell,9/21/2024,Adoption Return,9/28/2024,Adoption,8,8,8
+CCL-A-229,Tippy,Cat,Domestic Shorthair,,7/9/2019,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Amanda Larson,9/22/2024,Transfer In,1/26/2025,Adoption,127,127,127
+CCL-A-230,Cheese,Cat,Domestic Shorthair,,4/8/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Jennifer Ogletree,9/22/2024,Transfer In,9/23/2024,Adoption,2,2,2
+CCL-A-231,Atlas,Cat,Domestic Shorthair,,6/16/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Kayla Moore,9/22/2024,Transfer In,10/1/2024,Adoption,10,10,10
+CCL-A-232,Anna,Cat,Domestic Shorthair,,7/9/2019,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Rachel Caldwell,9/22/2024,Transfer In,9/30/2024,Adoption,9,9,9
+CCL-A-233,Maisie,Cat,Domestic Shorthair,,1/1/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Emma Hone,9/22/2024,Transfer In,9/30/2024,Adoption,9,9,9
+CCL-A-234,Phantom,Cat,Domestic Shorthair,,3/1/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Andrew Bunker,9/22/2024,Transfer In,10/3/2024,Adoption,12,12,12
+CCL-A-236,Sugar Plum,Cat,Domestic Shorthair,,7/23/2023,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Nicholas  De Luis,9/22/2024,Transfer In,12/21/2024,Adoption,91,91,91
+CCL-A-237,Blinky,Cat,Domestic Shorthair,,5/4/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Megan Dernberger,9/28/2024,Stray In,10/5/2024,Adoption,8,8,8
+CCL-A-238,Clyde,Cat,Domestic Shorthair,,5/4/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Julie Burnette,9/28/2024,Stray In,10/8/2024,Adoption,11,11,11
+CCL-A-239,Pinky,Cat,Domestic Shorthair,,5/4/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Connor Balcom,9/28/2024,Stray In,10/8/2024,Adoption,11,11,11
+CCL-A-240,Stanley,Cat,Domestic Medium Hair,,6/19/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Andrea Huddleston,10/1/2024,Stray In,10/28/2024,Adoption,28,28,14
+CCL-A-173,Pattie,Cat,Domestic Shorthair,,6/29/2014,Senior Cat (8+ years),Healthy In Home,Adopted: Kat Trimmer,10/2/2024,Adoption Return,4/29/2025,Adoption,210,12,1
+CCL-A-242,Big Mac,Cat,Domestic Shorthair,,8/3/2014,Senior Cat (8+ years),Healthy In Home,Adopted: Kaitlin Cashion,10/2/2024,Stray In,6/6/2025,Adoption,248,194,131
+CCL-A-243,Paradise,Cat,Domestic Shorthair,,8/3/2014,Senior Cat (8+ years),Healthy In Home,Adopted: Katherine Hernandez,10/2/2024,Stray In,1/2/2025,Adoption,93,93,87
+CCL-A-245,Ellie,Cat,Domestic Shorthair,,11/3/2022,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Dylan Wyss,10/2/2024,Owner Surrender,1/8/2025,Adoption,99,99,89
+CCL-A-253,Daisy Mae,Cat,Domestic Shorthair,,6/19/2023,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Regina Powell,10/3/2024,Owner Surrender,12/13/2024,Adoption,72,68,68
+CCL-A-244,Ron Weasley,Cat,Domestic Shorthair,,6/27/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Erin Riegal,10/3/2024,Stray In,10/14/2024,Adoption,12,12,12
+CCL-A-255,Corkscrew,Cat,Domestic Shorthair,,7/30/2013,Senior Cat (8+ years),Available in Foster,Foster Care: Kat Trimmer,10/6/2024,Stray In,,,403,244,374
+CCL-A-256,Nazzareno (Nazzy),Cat,Domestic Shorthair,,2/16/2024,Adult Cat (5 months-8 years),Available In Shelter,"Catio Cat Lounge, Main Room",10/6/2024,Stray In,,,403,403,385
+CCL-A-246,Milly,Cat,Domestic Shorthair,,5/22/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: jordan Henson,10/6/2024,Stray In,10/6/2024,Adoption,1,1,1
+CCL-A-247,Nellie,Cat,Domestic Shorthair,,6/24/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Emi Hubener,10/7/2024,Stray In,10/9/2024,Adoption,3,3,3
+CCL-A-248,Duey,Cat,Domestic Shorthair,,6/24/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Maria Ordonez,10/7/2024,Stray In,10/28/2024,Adoption,22,22,22
+CCL-A-249,Flower,Cat,Domestic Shorthair,,6/24/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Tara Little,10/7/2024,Stray In,11/16/2024,Adoption,41,41,27
+CCL-A-250,Saffron,Cat,Domestic Medium Hair,,6/24/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Bonnie Bielec,10/7/2024,Stray In,11/15/2024,Adoption,40,40,11
+CCL-A-251,Petunia,Cat,Domestic Longhair,,6/24/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Maria Ordonez,10/7/2024,Stray In,10/28/2024,Adoption,22,22,10
+CCL-A-252,Kawazi,Cat,Domestic Shorthair,,6/24/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Richard Rayome,10/7/2024,Stray In,10/28/2024,Adoption,22,22,10
+CCL-A-254,Semolina,Cat,Domestic Longhair,,8/3/2016,Senior Cat (8+ years),Healthy In Home,Adopted: Alli Watts,10/7/2024,Stray In,10/19/2024,Adoption,13,13,13
+CCL-A-257,Tobi,Cat,Domestic Shorthair,,9/14/2023,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Neal Schwartz,10/17/2024,Stray In,10/19/2024,Adoption,3,3,3
+CCL-A-258,Harley,Cat,Domestic Shorthair,,5/2/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Victoria Kelly,10/17/2024,Transfer In,10/20/2024,Adoption,4,3,3
+CCL-A-260,Bailey,Cat,Domestic Shorthair,,5/2/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Paige Nehlsen,10/17/2024,Transfer In,10/26/2024,Adoption,10,9,9
+CCL-A-263,Kreacher,Cat,Domestic Shorthair,,5/2/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Matthew Freestone,10/17/2024,Transfer In,12/8/2024,Adoption,53,52,46
+CCL-A-265,Boomer,Cat,Domestic Shorthair,,6/15/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Mary-Kathryn Harcombe,10/17/2024,Transfer In,12/23/2024,Adoption,68,67,67
+CCL-A-266,Sombra,Cat,Domestic Shorthair,,5/2/2023,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Tamia Spinks,10/17/2024,Transfer In,11/15/2024,Adoption,30,29,29
+CCL-A-267,Midnight,Cat,Domestic Shorthair,,2/15/2012,Senior Cat (8+ years),Healthy In Home,Adopted: Anne Donnell,10/31/2024,Stray In,11/22/2024,Adoption,23,22,22
+CCL-A-268,Lucy,Cat,Domestic Shorthair,,6/3/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Mary-Kathryn Harcombe,10/18/2024,Stray In,12/23/2024,Adoption,67,53,53
+CCL-A-269,Minnie,Cat,Domestic Shorthair,,7/17/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Rita Johnson,10/18/2024,Stray In,1/19/2025,Adoption,94,25,25
+CCL-A-270,Honey,Cat,Domestic Shorthair,,4/19/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Lyn Mullins,10/21/2024,Stray In,10/28/2024,Adoption,8,8,8
+CCL-A-271,Banshee,Cat,Domestic Shorthair,,4/19/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Lyn Mullins,10/21/2024,Stray In,10/28/2024,Adoption,8,8,8
+CCL-A-272,Oreo,Cat,Domestic Medium Hair,,4/19/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Tricia Schwaab,10/21/2024,Stray In,10/30/2024,Adoption,10,10,10
+CCL-A-273,Della,Cat,Domestic Shorthair,,4/14/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Josh Emmons,10/21/2024,Stray In,11/27/2024,Adoption,38,38,38
+CCL-A-274,Ella,Cat,Domestic Shorthair,,4/14/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: benicia pinzone,10/21/2024,Stray In,11/14/2024,Adoption,25,25,25
+CCL-A-275,Stella,Cat,Domestic Shorthair,,4/14/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Samuel Spence,10/21/2024,Stray In,12/2/2024,Adoption,43,43,43
+CCL-A-276,Soul Sister,Cat,Domestic Shorthair,,5/10/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Alexis Tackman,10/24/2024,Stray In,12/17/2024,Adoption,55,55,55
+CCL-A-277,Cherry Bomb,Cat,Domestic Shorthair,,6/9/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Tori Langham,10/24/2024,Stray In,12/17/2024,Adoption,55,55,55
+CCL-A-278,Doppel,Cat,Domestic Shorthair,,8/7/2022,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Alexia Hudson,10/24/2024,Stray In,12/21/2024,Adoption,59,59,59
+CCL-A-279,Dimetrodon (Demi),Cat,Domestic Shorthair,,5/3/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Robyn Raadmae,10/24/2024,Stray In,12/30/2024,Adoption,68,68,68
+CCL-A-280,Freddie,Cat,Domestic Shorthair,,3/11/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Travis Taylor,10/31/2024,Stray In,10/31/2024,Adoption,1,1,1
+CCL-A-281,Nina,Cat,Domestic Shorthair,,10/29/2022,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Richard Lawless,10/31/2024,Stray In,3/11/2025,Adoption,132,132,132
+CCL-A-282,Links - DEMO,Cat,Domestic Shorthair,,7/27/2024,Kitten (6 weeks-5 months),Unavailable in Shelter - Medical,"Catio Cat Lounge, Main Room",10/31/2024,Stray In,,,378,378,19
+CCL-A-283,Toby,Cat,Domestic Shorthair,,6/4/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Anthony Curcio,10/31/2024,Transfer In,1/28/2025,Adoption,90,89,52
+CCL-A-10,Betty,Cat,Domestic Shorthair,,11/20/2022,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Collin Shipley,11/1/2024,Adoption Return,12/23/2024,Adoption,53,53,53
+CCL-A-293,Smooch,Cat,Domestic Shorthair,,2/14/2023,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Levi Greenberg,11/2/2024,Stray In,2/4/2025,Adoption,95,95,95
+CCL-A-294,Cinnamon,Cat,Domestic Medium Hair,,7/1/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Levi Greenberg,11/2/2024,Stray In,2/4/2025,Adoption,95,95,95
+CCL-A-295,April Rayne,Cat,Domestic Shorthair,,12/25/2023,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Kat Polsinelli,11/2/2024,Stray In,12/2/2024,Adoption,31,31,31
+CCL-A-296,Mary Hope,Cat,Domestic Shorthair,,7/20/2023,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Anne Donnell,11/2/2024,Stray In,11/22/2024,Adoption,21,21,21
+CCL-A-297,Primrose,Cat,Domestic Shorthair,,6/24/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Maddison Ball,11/2/2024,Stray In,11/7/2024,Adoption,6,6,6
+CCL-A-298,Bisquit,Cat,Domestic Shorthair,,5/3/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Lohit  Velagapudi,11/2/2024,Stray In,12/12/2024,Adoption,41,41,41
+CCL-A-284,Zeke,Cat,Domestic Shorthair,,5/12/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Maddison Ball,11/3/2024,Transfer In,11/7/2024,Adoption,5,5,4
+CCL-A-285,Matilda,Cat,Domestic Shorthair,,5/1/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Alexis Woolison,11/3/2024,Transfer In,11/4/2024,Adoption,2,2,1
+CCL-A-286,Petey Boy,Cat,Siamese,,11/2/2012,Senior Cat (8+ years),Healthy In Home,Adopted: Marjorie Hueber,11/3/2024,Transfer In,11/20/2024,Adoption,18,18,14
+CCL-A-287,Monkey,Cat,Domestic Shorthair,,5/1/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Kaylee Federmann,11/3/2024,Transfer In,12/2/2024,Adoption,30,30,29
+CCL-A-288,Bindi,Cat,Domestic Shorthair,,4/23/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Sage Mulzer,11/3/2024,Transfer In,12/6/2024,Adoption,34,34,33
+CCL-A-289,Emberley,Cat,Domestic Shorthair,,5/12/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Abriana Roberts,11/3/2024,Transfer In,11/17/2024,Adoption,15,15,14
+CCL-A-290,Taco,Cat,Domestic Shorthair,,4/30/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Kelley OBrien,11/3/2024,Transfer In,11/13/2024,Adoption,11,11,10
+CCL-A-291,Black Bean,Cat,Domestic Shorthair,,4/30/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Anita Hall,11/3/2024,Transfer In,11/5/2024,Adoption,3,3,2
+CCL-A-292,Queso,Cat,Domestic Shorthair,,4/30/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Aric Whitehead,11/3/2024,Transfer In,11/6/2024,Adoption,4,4,3
+CCL-A-299,Ziggy,Cat,Domestic Medium Hair,,9/17/2022,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Kristen Broadus,11/7/2024,Stray In,8/22/2025,Adoption,289,289,282
+CCL-A-300,Bowie,Cat,Domestic Shorthair,,6/30/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Sandra Granito,11/8/2024,Stray In,11/9/2024,Adoption,2,2,2
+CCL-A-301,Goliath,Cat,Domestic Shorthair,,6/30/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Nancy Pendleton,11/8/2024,Stray In,11/9/2024,Adoption,2,2,2
+CCL-A-302,Gidget,Cat,Domestic Shorthair,,6/30/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Sandra Granito,11/8/2024,Stray In,11/9/2024,Adoption,2,2,2
+CCL-A-303,Bungee,Cat,Domestic Shorthair,,8/9/2021,Adult Cat (5 months-8 years),Unavailable in Shelter - Medical,"Catio Cat Lounge, Room 2",11/8/2024,Stray In,1/31/2025,Adoption,85,85,85
+CCL-A-304,Minnie,Cat,Domestic Shorthair,,5/6/2023,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Cassie Smith,11/8/2024,Stray In,12/22/2024,Adoption,45,45,45
+CCL-A-305,Zoe,Cat,Domestic Shorthair,,6/14/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Madison Crawford,11/10/2024,Transfer In,11/15/2024,Adoption,6,6,6
+CCL-A-306,Claire,Cat,Domestic Shorthair,,7/10/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Mitchell Marlow,11/10/2024,Transfer In,11/11/2024,Adoption,2,2,2
+CCL-A-307,Ash,Cat,Domestic Shorthair,,7/10/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Tyler Dinner,11/10/2024,Transfer In,1/30/2025,Adoption,82,82,39
+CCL-A-308,Cooper,Cat,Domestic Shorthair,,7/10/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Jessica Pickard,11/10/2024,Transfer In,12/26/2024,Adoption,47,47,5
+CCL-A-309,Chester,Cat,Domestic Shorthair,,7/20/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Alexis Mize,11/10/2024,Transfer In,12/4/2024,Adoption,25,25,10
+CCL-A-312,Cordell,Cat,Domestic Longhair,,11/8/2015,Senior Cat (8+ years),Healthy In Home,Adopted: Abigail Holland,11/10/2024,Stray In,12/12/2024,Adoption,33,33,33
+CCL-A-313,Scribble,Cat,Domestic Shorthair,,8/8/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Kelly Estilette,11/15/2024,Stray In,11/20/2024,Adoption,6,6,2
+CCL-A-317,Bruce Wayne,Cat,Domestic Shorthair,,8/19/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Kelly VanCleve,11/19/2024,Stray In,12/2/2024,Adoption,14,14,14
+CCL-A-314,Cece,Cat,Domestic Shorthair,Manx,8/19/2024,Kitten (6 weeks-5 months),Available In Shelter,"Catio Cat Lounge, Main Room",11/19/2024,Stray In,,,359,261,261
+CCL-A-315,Davey/Majin Buu,Cat,Domestic Shorthair,,8/19/2024,Kitten (6 weeks-5 months),Available In Shelter,"Catio Cat Lounge, Main Room",11/19/2024,Stray In,,,359,261,236
+CCL-A-318,Sam,Cat,Domestic Shorthair,,3/1/2021,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Mary Willoughby,11/20/2024,Owner Surrender,4/8/2025,Adoption,140,140,137
+CCL-A-343,No No,Cat,Domestic Shorthair,,8/25/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Jeremiah Davis,11/22/2024,Stray In,11/27/2024,Adoption,6,6,1
+CCL-A-319,Butternut,Cat,Domestic Shorthair,,7/5/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Crystal Tew,11/22/2024,Stray In,11/25/2024,Adoption,4,4,4
+CCL-A-286,Petey Boy,Cat,Siamese,,11/2/2012,Senior Cat (8+ years),Healthy In Home,Adopted: Marjorie Hueber,11/23/2024,Adoption Return,1/5/2025,Adoption,44,44,44
+CCL-A-320,Missy,Cat,Domestic Shorthair,,7/20/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Cassie Smith,11/24/2024,Transfer In,12/22/2024,Adoption,29,29,29
+CCL-A-321,Alvin,Cat,Domestic Shorthair,,8/1/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Sabrina Hernandez,11/24/2024,Transfer In,3/22/2025,Adoption,119,119,92
+CCL-A-323,Theodore,Cat,Domestic Shorthair,,8/1/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Kacey Lynch,11/24/2024,Transfer In,1/14/2025,Adoption,52,52,25
+CCL-A-325,Bella,Cat,Domestic Shorthair,,7/13/2022,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Rita Johnson,11/24/2024,Transfer In,1/19/2025,Adoption,57,57,30
+CCL-A-328,Simon,Cat,Domestic Shorthair,,8/1/2024,Kitten (6 weeks-5 months),Deceased,N/A,11/24/2024,Transfer In,5/11/2025,Euthanasia,169,169,142
+CCL-A-332,Belle,Cat,Domestic Shorthair,,8/1/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Sabrina McClure,11/24/2024,Transfer In,12/27/2024,Adoption,34,34,7
+CCL-A-334,Holly,Cat,Domestic Shorthair,,7/20/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Josh Emmons,11/24/2024,Transfer In,11/27/2024,Adoption,4,4,4
+CCL-A-336,Tinker,Cat,Domestic Shorthair,,8/1/2024,Kitten (6 weeks-5 months),On Hold - In Foster,Foster Care: Default Foster,11/24/2024,Transfer In,,,354,354,73
+CCL-A-338,Ariel,Cat,Domestic Medium Hair,,5/17/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Anna Shepherd,11/24/2024,Stray In,12/2/2024,Adoption,9,9,9
+CCL-A-339,Browny,Cat,Domestic Shorthair,,5/22/2023,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Echo Norris,11/24/2024,Stray In,1/20/2025,Adoption,58,58,58
+CCL-A-340,Charlie,Cat,Domestic Medium Hair,,5/26/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Matthew Freestone,11/26/2024,Stray In,12/8/2024,Adoption,13,13,13
+CCL-A-341,Billie Jean,Cat,Domestic Shorthair,,6/10/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Reagan Richter,11/26/2024,Stray In,12/22/2024,Adoption,27,27,27
+CCL-A-342,Feihu,Cat,Domestic Shorthair,,8/22/2023,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Abigail Ramirez,11/26/2024,Stray In,12/23/2024,Adoption,28,28,28
+CCL-A-344,Bobby,Cat,Domestic Shorthair,,8/20/2022,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Stephanie Sanders,11/27/2024,Stray In,5/1/2025,Adoption,156,156,156
+CCL-A-345,Buttercup,Cat,Domestic Shorthair,,5/25/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Katie West,11/27/2024,Stray In,12/2/2024,Adoption,6,6,6
+CCL-A-346,Murphy,Cat,Domestic Shorthair,,8/9/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Tawana Mya Qualls,12/2/2024,Stray In,12/11/2024,Adoption,10,10,10
+CCL-A-347,Lina,Cat,Domestic Longhair,,7/4/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Tawana Mya Qualls,12/2/2024,Stray In,12/11/2024,Adoption,10,10,10
+CCL-A-287,Monkey,Cat,Domestic Shorthair,,5/1/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Kaylee Federmann,12/2/2024,Adoption Return,12/3/2024,Adoption,2,2,2
+CCL-A-348,CC (Iron Cat),Cat,Domestic Shorthair,,11/25/2023,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Heather Peters,12/2/2024,Stray In,12/28/2024,Adoption,27,27,1
+CCL-A-8069,Carol Ann,Cat,Domestic Shorthair,,10/7/2022,Adult Cat (5 months-8 years),Healthy In Home,Adopted: John (AKA Aiden) Lipscomb (AKA Moore),12/4/2024,Stray In,1/12/2025,Adoption,40,40,40
+CCL-A-8070,Wendigo,Cat,Domestic Shorthair,,3/4/2023,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Lydia  Speece,12/4/2024,Stray In,1/7/2025,Adoption,35,35,35
+CCL-A-8071,Fettuccine Alfredo,Cat,Domestic Shorthair,,4/25/2023,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Emilee Friend,12/4/2024,Stray In,1/8/2025,Adoption,36,36,36
+CCL-A-8072,BB (Smokey),Cat,Domestic Shorthair,,4/4/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Samantha  Warick,12/4/2024,Stray In,1/15/2025,Adoption,43,1,1
+CCL-A-8073,Xena,Cat,Domestic Shorthair,,3/3/2023,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Jazlynn Wade,12/6/2024,Stray In,12/21/2024,Adoption,16,16,16
+CCL-A-8074,Dexter,Cat,Domestic Shorthair,,8/24/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Alora Harward,12/6/2024,Stray In,12/17/2024,Adoption,12,12,12
+CCL-A-8075,Bugsey (Bugs),Cat,Domestic Shorthair,,6/18/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Alora Harward,12/6/2024,Stray In,12/17/2024,Adoption,12,12,12
+CCL-A-8076,Micki,Cat,Domestic Shorthair,,5/1/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: JARED JOHNSON,12/6/2024,Stray In,12/10/2024,Adoption,5,5,5
+CCL-A-8077,Shadow,Cat,Domestic Shorthair,,5/1/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Holly Bartlett,12/6/2024,Stray In,12/26/2024,Adoption,21,21,21
+CCL-A-8078,Hunter,Cat,Domestic Shorthair,,5/1/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Chris Barber,12/6/2024,Stray In,12/21/2024,Adoption,16,16,16
+CCL-A-8079,Lolita,Cat,Domestic Shorthair,,8/14/2024,Kitten (6 weeks-5 months),Available In Shelter,"Catio Cat Lounge, Main Room",12/12/2024,Stray In,,,336,336,336
+CCL-A-8080,Colby,Cat,Domestic Shorthair,,8/26/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Michael  Tilelli,12/12/2024,Stray In,12/20/2024,Adoption,9,9,9
+CCL-A-8081,Rowdy,Cat,Domestic Shorthair,,8/26/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Michael  Tilelli,12/12/2024,Stray In,12/20/2024,Adoption,9,9,9
+CCL-A-8082,Gracie,Cat,Domestic Shorthair,,12/7/2023,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Alison Jenkins,12/12/2024,Stray In,1/5/2025,Adoption,25,25,25
+CCL-A-8083,Milo,Cat,Domestic Shorthair,,7/29/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Claire Meneely,12/12/2024,Stray In,1/6/2025,Adoption,26,26,26
+CCL-A-8084,Pumpkin,Cat,Domestic Shorthair,,7/9/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Claire Meneely,12/12/2024,Stray In,1/6/2025,Adoption,26,26,26
+CCL-A-8085,Luna,Cat,Domestic Shorthair,,8/21/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: James Polcer,12/13/2024,Stray In,12/23/2024,Adoption,11,11,11
+CCL-A-8086,Lupe,Cat,Domestic Shorthair,,8/21/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Trisha Farmer,12/13/2024,Stray In,12/21/2024,Adoption,9,9,9
+CCL-A-8087,Linus,Cat,Domestic Shorthair,,8/21/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: TaMla Plan,12/13/2024,Stray In,12/27/2024,Adoption,15,15,15
+CCL-A-8088,Loki,Cat,Domestic Shorthair,,8/21/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Nima Hajizadeh,12/13/2024,Stray In,12/16/2024,Adoption,4,4,4
+CCL-A-8089,Bo (Bosephus),Cat,Domestic Shorthair,,5/23/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Heather Peters,12/13/2024,Stray In,12/28/2024,Adoption,16,16,16
+CCL-A-276,Soul Sister,Cat,Domestic Shorthair,,5/10/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Alexis Tackman,12/17/2024,Adoption Return,2/15/2025,Adoption,61,61,61
+CCL-A-277,Cherry Bomb,Cat,Domestic Shorthair,,6/9/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Tori Langham,12/17/2024,Adoption Return,1/5/2025,Adoption,20,20,20
+CCL-A-8090,Twinkle Toes,Cat,Domestic Shorthair,,6/14/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Jessica Pickard,12/25/2024,Stray In,12/26/2024,Adoption,2,2,2
+CCL-A-8091,Sheldon,Cat,Domestic Shorthair,,9/4/2019,Adult Cat (5 months-8 years),Available In Shelter,"Catio Cat Lounge, Senior Room",12/25/2024,Stray In,,,323,323,323
+CCL-A-8092,Bosalina (Bosé),Cat,Domestic Shorthair,,7/13/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Andrew Hunt,12/25/2024,Stray In,1/20/2025,Adoption,27,27,27
+CCL-A-8093,Hendricks,Cat,Domestic Shorthair,,6/13/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Savannah Purcell,12/27/2024,Stray In,1/5/2025,Adoption,10,10,10
+CCL-A-8094,Shasta,Cat,Domestic Shorthair,,6/13/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Richard Perrotta,12/27/2024,Stray In,1/1/2025,Adoption,6,6,6
+CCL-A-8095,Rainey,Cat,Domestic Shorthair,,6/13/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Claire  Heflin,12/27/2024,Stray In,1/18/2025,Adoption,23,23,23
+CCL-A-8096,Rupert,Cat,Domestic Shorthair,,6/13/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Richard Dobson,12/27/2024,Stray In,1/3/2025,Adoption,8,8,8
+CCL-A-8097,Virginia,Cat,Domestic Shorthair,,7/17/2011,Senior Cat (8+ years),Healthy In Home,Adopted: Desiree Lynch,12/27/2024,Stray In,1/5/2025,Adoption,10,10,10
+CCL-A-8098,Murray,Cat,Domestic Shorthair,,7/28/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Travis  Rogers,12/28/2024,Stray In,12/28/2024,Adoption,1,1,1
+CCL-A-8099,Purple,Cat,Domestic Shorthair,,7/28/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Travis  Rogers,12/28/2024,Stray In,12/28/2024,Adoption,1,1,1
+CCL-A-8100,Electra,Cat,Domestic Shorthair,,10/15/2020,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Eric E Olson,12/30/2024,Stray In,1/2/2025,Adoption,4,4,4
+CCL-A-8101,Luna,Cat,Domestic Shorthair,,4/3/2020,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Kyle Domin,1/1/2025,Owner Surrender,1/24/2025,Adoption,24,24,24
+CCL-A-8102,Khaleesi,Cat,Ragdoll,,1/3/2021,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Chelsea  Tolbert,1/3/2025,Stray In,1/7/2025,Adoption,5,5,5
+CCL-A-8103,Tilt,Cat,Domestic Medium Hair,,6/2/2015,Senior Cat (8+ years),Healthy In Home,Adopted: Hayden Loggins,1/3/2025,Stray In,2/12/2025,Adoption,41,41,41
+CCL-A-8104,Peanut,Cat,Domestic Shorthair,,2/13/2012,Senior Cat (8+ years),Healthy In Home,Adopted: Tala Bell,1/3/2025,Stray In,1/18/2025,Adoption,16,16,16
+CCL-A-8105,Max,Cat,Siamese,,3/1/2013,Senior Cat (8+ years),Healthy In Home,Adopted: Hayden Loggins,1/3/2025,Stray In,2/12/2025,Adoption,41,41,41
+CCL-A-8106,Iona,Cat,Domestic Shorthair,,12/2/2021,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Thomas  Williams,1/3/2025,Stray In,1/6/2025,Adoption,4,4,4
+CCL-A-8107,Junior,Cat,Domestic Shorthair,,6/2/2015,Senior Cat (8+ years),Healthy In Home,Adopted: Arianna York,1/3/2025,Stray In,2/5/2025,Adoption,34,34,34
+CCL-A-8108,Abby,Cat,Domestic Shorthair,,11/22/2016,Senior Cat (8+ years),Deceased,N/A,1/3/2025,Stray In,5/24/2025,Euthanasia,142,142,142
+CCL-A-8109,Sam,Cat,Domestic Medium Hair,,8/30/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Schuyler Howie,1/5/2025,Stray In,3/24/2025,Adoption,79,79,79
+CCL-A-8110,Ike,Cat,Domestic Shorthair,,8/30/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Schuyler Howie,1/5/2025,Stray In,3/24/2025,Adoption,79,79,79
+CCL-A-8111,Marlie,Cat,Domestic Medium Hair,,8/30/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Charles Kates,1/5/2025,Stray In,1/17/2025,Adoption,13,13,13
+CCL-A-8112,Gray,Cat,Domestic Shorthair,,8/30/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Charles Kates,1/5/2025,Stray In,1/17/2025,Adoption,13,13,13
+CCL-A-8093,Hendricks,Cat,Domestic Shorthair,,6/13/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Savannah Purcell,1/7/2025,Adoption Return,1/20/2025,Adoption,14,14,14
+CCL-A-8113,Stevie Nicks,Cat,Domestic Shorthair,,6/8/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Hailey  Brezinsky,1/9/2025,Stray In,1/18/2025,Adoption,10,10,10
+CCL-A-8114,David Bowie,Cat,Domestic Shorthair,,6/8/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Georgia Surro,1/9/2025,Stray In,1/19/2025,Adoption,11,11,11
+CCL-A-8115,Ziggy Stardust,Cat,Domestic Shorthair,,6/8/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Amy Weaver,1/9/2025,Stray In,2/5/2025,Adoption,28,28,28
+CCL-A-8116,Cupid,Cat,Domestic Medium Hair,,10/25/2020,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Chau Nguyen,1/9/2025,Stray In,1/12/2025,Adoption,4,4,4
+CCL-A-8118,Pepper,Cat,Domestic Shorthair,,8/9/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Ford Gunn,1/5/2025,Stray In,1/13/2025,Adoption,9,9,9
+CCL-A-8119,Coal,Cat,Domestic Shorthair,,12/14/2021,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Marco Argote,1/14/2025,Stray In,2/3/2025,Adoption,21,21,21
+CCL-A-8120,Russ Camouflage Fuzzypants,Cat,Domestic Longhair,,1/14/2018,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Claire  Heflin,1/14/2025,Stray In,1/18/2025,Adoption,5,5,5
+CCL-A-8121,Blane,Cat,Domestic Shorthair,,5/13/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Jill Fields,1/15/2025,Stray In,1/21/2025,Adoption,7,7,7
+CCL-A-8122,Izzy,Cat,Domestic Shorthair,,9/15/2004,Senior Cat (8+ years),Deceased,N/A,1/15/2025,Stray In,2/10/2025,Euthanasia,27,27,0
+CCL-A-8123,Chachi,Cat,Domestic Shorthair,,1/16/2019,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Kayla  Burgett,1/16/2025,Stray In,5/2/2025,Adoption,107,107,100
+CCL-A-8124,Jasper,Cat,Domestic Shorthair,,1/14/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Joanne Golann,1/18/2025,Stray In,1/19/2025,Adoption,2,2,2
+CCL-A-8125,Sissy,Cat,Domestic Shorthair,,8/30/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Michael Gross,1/18/2025,Stray In,1/20/2025,Adoption,3,3,3
+CCL-A-8126,Morgan,Cat,Domestic Shorthair,,8/30/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Claire Ball,1/18/2025,Stray In,1/23/2025,Adoption,6,6,6
+CCL-A-8127,Mischief,Cat,Domestic Shorthair,,6/17/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Claire Ball,1/18/2025,Stray In,1/23/2025,Adoption,6,6,6
+CCL-A-8128,Peanut,Cat,Domestic Medium Hair,,9/13/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Madison McEllhiney,1/18/2025,Stray In,1/20/2025,Adoption,3,3,3
+CCL-A-8129,Munchkin,Cat,Domestic Shorthair,,8/30/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Ashley Ryckman,1/18/2025,Stray In,1/19/2025,Adoption,2,2,2
+CCL-A-8130,Sierra,Cat,Domestic Longhair,,11/19/2023,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Carly O’Brien,1/18/2025,Stray In,2/18/2025,Adoption,32,32,32
+CCL-A-8131,Shikira,Cat,Domestic Longhair,,11/19/2023,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Lisa  Martinson,1/18/2025,Stray In,1/28/2025,Adoption,11,11,11
+CCL-A-8132,Andie,Cat,Domestic Shorthair,,6/11/2024,Adult Cat (5 months-8 years),Available In Shelter,"Catio Cat Lounge, Senior Room",1/21/2025,Stray In,,,296,41,41
+CCL-A-8133,Pasta (Nessy),Cat,Domestic Shorthair,,11/8/2021,Adult Cat (5 months-8 years),Available In Shelter,"Catio Cat Lounge, Main Room",1/21/2025,Owner Surrender,,,296,296,290
+CCL-A-8134,Moon,Cat,Russian Blue,,4/13/2022,Adult Cat (5 months-8 years),Available In Shelter,"Catio Cat Lounge, Main Room",1/21/2025,Owner Surrender,,,296,296,290
+CCL-A-8135,Nim,Cat,Siamese,,3/14/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Brooks Locke,1/21/2025,Stray In,1/28/2025,Adoption,8,8,8
+CCL-A-8136,Jasper,Cat,Domestic Shorthair,American Bobtail,1/23/2013,Senior Cat (8+ years),Available In Shelter,"Catio Cat Lounge, Back Room",1/21/2025,Stray In,,,296,296,285
+CCL-A-8137,Sissy,Cat,Domestic Longhair,,7/1/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Erica Peninger,1/23/2025,Stray In,1/28/2025,Adoption,6,6,6
+CCL-A-8138,Henrietta,Cat,Domestic Longhair,,7/1/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Ashley Ziomek,1/23/2025,Stray In,1/26/2025,Adoption,4,4,4
+CCL-A-8139,Newton,Cat,Domestic Shorthair,,7/1/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Ben  Taylor,1/23/2025,Stray In,1/29/2025,Adoption,7,7,7
+CCL-A-8140,Baby Teef,Cat,Domestic Shorthair,,6/21/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Alexis Conner,1/23/2025,Stray In,1/27/2025,Adoption,5,5,3
+CCL-A-8141,BW,Cat,Domestic Medium Hair,,6/21/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Alexis Conner,1/23/2025,Stray In,1/27/2025,Adoption,5,5,3
+CCL-A-8142,Amos,Cat,Domestic Shorthair,,1/24/2022,Adult Cat (5 months-8 years),Available In Shelter,"Donelson Animal Hospital, Sick Kennels",1/24/2025,Stray In,,,293,293,188
+CCL-A-8143,Sissy,Cat,Domestic Shorthair,,3/18/2015,Senior Cat (8+ years),Healthy In Home,Adopted: Julia Burciaga,1/25/2025,Stray In,7/30/2025,Adoption,187,187,187
+CCL-A-8144,Creamy,Cat,Domestic Medium Hair,,6/21/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Gregory Artis,1/25/2025,Stray In,1/27/2025,Adoption,3,3,3
+CCL-A-8145,Big Boy,Cat,Domestic Shorthair,,6/21/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Alexa Conner,1/25/2025,Stray In,1/28/2025,Adoption,4,4,4
+CCL-A-8147,Monty,Cat,Domestic Longhair,,9/25/2022,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Kalyn  Killian,1/25/2025,Stray In,2/7/2025,Adoption,14,14,13
+CCL-A-8148,Handsome,Cat,Domestic Shorthair,,7/14/2018,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Alex Williams,1/26/2025,Stray In,2/7/2025,Adoption,13,13,13
+CCL-A-8149,Ladybug,Cat,Domestic Shorthair,,7/14/2018,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Nate Dodge,1/26/2025,Stray In,10/29/2025,Adoption,277,277,252
+CCL-A-8150,Mouse,Cat,Domestic Shorthair,,7/14/2018,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Dustin  Chandler,1/26/2025,Stray In,5/27/2025,Adoption,122,122,122
+CCL-A-8151,Elias,Cat,Domestic Longhair,,8/20/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Sydney Holland,1/28/2025,Transfer In,2/5/2025,Adoption,9,9,3
+CCL-A-8152,Eve,Cat,Domestic Shorthair,,9/20/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Samantha Bullock,1/28/2025,Transfer In,3/18/2025,Adoption,50,50,33
+CCL-A-8153,Adam,Cat,Domestic Shorthair,,9/20/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Samantha Bullock,1/28/2025,Transfer In,3/18/2025,Adoption,50,50,33
+CCL-A-8154,Tommy Boy,Cat,Domestic Shorthair,,9/17/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Kaysha Iverson,1/28/2025,Transfer In,1/31/2025,Adoption,4,4,1
+CCL-A-8155,Declan,Cat,Domestic Shorthair,,10/26/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Uyen Phillips,1/28/2025,Transfer In,2/5/2025,Adoption,9,9,3
+CCL-A-8156,Benson,Cat,Domestic Shorthair,,10/26/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Krista Riveron,1/28/2025,Transfer In,2/3/2025,Adoption,7,7,1
+CCL-A-8157,Ziggy Pop,Cat,Domestic Shorthair,,9/27/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Deena  Quinn,1/28/2025,Transfer In,2/10/2025,Adoption,14,14,4
+CCL-A-8158,Zebra,Cat,Domestic Shorthair,,9/27/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Megan English,1/28/2025,Transfer In,2/17/2025,Adoption,21,21,11
+CCL-A-8159,Bear,Cat,Domestic Shorthair,,11/13/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Todd Bohling,1/28/2025,Transfer In,3/24/2025,Adoption,56,41,38
+CCL-A-8160,Boo,Cat,Domestic Shorthair,,11/13/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Brice Baker,1/28/2025,Transfer In,3/24/2025,Adoption,56,41,38
+CCL-A-8161,Binx,Cat,Domestic Shorthair,,11/13/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Danelle Nelms,1/28/2025,Transfer In,3/4/2025,Adoption,36,21,18
+CCL-A-8162,Binky,Cat,Domestic Shorthair,,11/13/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Brice Baker,1/28/2025,Transfer In,7/6/2025,Adoption,160,141,86
+CCL-A-8163,Halia,Cat,Domestic Shorthair,,11/26/2014,Senior Cat (8+ years),Available In Shelter,"Catio Cat Lounge, Senior Room",1/28/2025,Transfer In,,,289,289,289
+CCL-A-8164,Baby,Cat,Domestic Shorthair,,5/29/2024,Adult Cat (5 months-8 years),On Hold - In Foster,Foster Care: Default Foster,1/28/2025,Stray In,,,289,289,89
+CCL-A-8165,Coconut (Luna),Cat,Domestic Shorthair,,1/29/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Faith Van Ryckeghem,1/23/2025,Stray In,5/20/2025,Adoption,118,118,107
+CCL-A-8166,Big Man,Cat,Domestic Shorthair,,1/28/2023,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Emma Parker,1/28/2025,Stray In,6/24/2025,Adoption,148,148,130
+CCL-A-8167,Sharpie,Cat,Domestic Shorthair,,4/18/2022,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Grace Jermusyk-Cagle,1/29/2025,Stray In,2/5/2025,Adoption,8,8,8
+CCL-A-8168,Lucifer,Cat,Domestic Shorthair,,4/18/2022,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Aaron Traylor,1/29/2025,Stray In,2/1/2025,Adoption,4,4,4
+CCL-A-8169,Shadow,Cat,Domestic Shorthair,,4/18/2022,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Maria Kourmoulakis,1/29/2025,Stray In,1/30/2025,Adoption,2,2,2
+CCL-A-8170,Drake,Cat,Domestic Shorthair,,6/24/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Tessix Caelestine,1/31/2025,Stray In,3/5/2025,Adoption,34,34,34
+CCL-A-8171,Huey,Cat,Domestic Shorthair,,6/24/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Tessix Caelestine,1/31/2025,Stray In,3/5/2025,Adoption,34,34,34
+CCL-A-8172,Crickett,Cat,Domestic Shorthair,,7/11/2023,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Faith Kinkelaar,1/31/2025,Stray In,3/18/2025,Adoption,47,47,47
+CCL-A-8173,Daddy,Cat,Domestic Medium Hair,,7/13/2020,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Vicki  Jenkins,1/31/2025,Stray In,4/8/2025,Adoption,68,68,68
+CCL-A-8174,Pricilla,Cat,Domestic Longhair,,9/13/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Kayla  Swafford,1/31/2025,Stray In,2/12/2025,Adoption,13,13,11
+CCL-A-8175,Skittles,Cat,Domestic Shorthair,,9/15/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Erik Frysinger,1/31/2025,Stray In,2/10/2025,Adoption,11,11,9
+CCL-A-303,Bungee,Cat,Domestic Shorthair,,8/9/2021,Adult Cat (5 months-8 years),Unavailable in Shelter - Medical,"Catio Cat Lounge, Room 2",2/3/2025,Adoption Return,,,283,283,260
+CCL-A-8176,Swish,Cat,Domestic Shorthair,,8/4/2024,Adult Cat (5 months-8 years),Available In Shelter,"Catio Cat Lounge, Main Room",2/4/2025,Stray In,9/15/2025,Adoption,224,224,224
+CCL-A-8177,Knockout,Cat,Domestic Shorthair,,12/4/2022,Adult Cat (5 months-8 years),Available In Shelter,"Catio Cat Lounge, Main Room",2/4/2025,Stray In,,,282,282,282
+CCL-A-8178,Cloud,Cat,Domestic Shorthair,,6/5/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: John Qiu,2/4/2025,Stray In,2/26/2025,Adoption,23,23,11
+CCL-A-8179,Rain,Cat,Domestic Shorthair,,7/4/2023,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Stephen  Czaplicki,2/8/2025,Transfer In,3/13/2025,Adoption,34,34,34
+CCL-A-8180,Erin,Cat,Domestic Shorthair,,8/4/2023,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Alex Bertsekas,2/8/2025,Transfer In,3/17/2025,Adoption,38,38,38
+CCL-A-8181,Hamilton,Cat,Domestic Shorthair,,6/16/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Elliott Spurlock l,2/8/2025,Transfer In,2/23/2025,Adoption,16,16,16
+CCL-A-8182,Morgan,Cat,Domestic Longhair,,8/15/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Kenny McEwen,2/8/2025,Transfer In,2/12/2025,Adoption,5,5,5
+CCL-A-8183,Daniels,Cat,Domestic Longhair,,8/15/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Colin Wilson,2/8/2025,Transfer In,2/17/2025,Adoption,10,10,10
+CCL-A-8184,Tito,Cat,Domestic Longhair,,8/15/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Kelly Nichols,2/8/2025,Transfer In,2/10/2025,Adoption,3,3,3
+CCL-A-8185,Jameson ,Cat,Domestic Shorthair,,8/15/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Ember Tharpe,2/8/2025,Transfer In,2/11/2025,Adoption,4,4,4
+CCL-A-8186,Kay,Cat,Domestic Shorthair,,8/25/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Klem-Mari Cajigas,2/8/2025,Transfer In,2/17/2025,Adoption,10,10,10
+CCL-A-8187,Tuxie,Cat,Domestic Shorthair,,9/20/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Maxine Fernandez,2/8/2025,Transfer In,2/17/2025,Adoption,10,10,10
+CCL-A-8188,Taki,Cat,Domestic Shorthair,,11/2/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Samantha Hedrick,2/8/2025,Transfer In,2/10/2025,Adoption,3,3,3
+CCL-A-8189,Spiderman ,Cat,Domestic Shorthair,,6/2/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Jason  Oregel,2/8/2025,Transfer In,2/10/2025,Adoption,3,3,3
+CCL-A-8190,Finn,Cat,Domestic Shorthair,,7/4/2023,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Kayla Norem,2/8/2025,Transfer In,2/10/2025,Adoption,3,3,3
+CCL-A-8191,Tatertot ,Cat,Domestic Shorthair,,8/15/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Klem-Mari Cajigas,2/8/2025,Transfer In,2/17/2025,Adoption,10,10,10
+CCL-A-8192,Hook,Cat,Domestic Shorthair,,2/8/2015,Senior Cat (8+ years),Healthy In Home,Adopted: Al Wypiszynski,2/8/2025,Stray In,4/27/2025,Adoption,79,79,79
+CCL-A-8193,Little Bit,Cat,Domestic Medium Hair,,7/1/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Emily  La Chapell,2/10/2025,Stray In,2/12/2025,Adoption,3,3,3
+CCL-A-8131,Shikira,Cat,Domestic Longhair,,11/19/2023,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Lisa  Martinson,2/11/2025,Adoption Return,4/12/2025,Adoption,61,61,61
+CCL-A-8194,Bella,Cat,Domestic Shorthair,,2/12/2013,Senior Cat (8+ years),Healthy In Home,Adopted: Kaitlin Cashion,2/12/2025,Stray In,10/24/2025,Adoption,255,255,64
+CCL-A-8195,Norma Jean,Cat,Domestic Shorthair,,1/17/2015,Senior Cat (8+ years),Healthy In Home,Adopted: Audrey Johnson,2/12/2025,Stray In,4/16/2025,Adoption,64,64,64
+CCL-A-8196,Loretta,Cat,Domestic Shorthair,,2/4/2017,Senior Cat (8+ years),Healthy In Home,Adopted: Kaitlin Cashion,2/12/2025,Stray In,6/6/2025,Adoption,115,61,29
+CCL-A-8197,Wizard Billy,Cat,Domestic Longhair,,1/7/2012,Senior Cat (8+ years),Deceased,N/A,2/12/2025,Stray In,4/30/2025,Unassisted Death in Custody,78,48,43
+CCL-A-145,Casey,Cat,Domestic Shorthair,,4/10/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Jacob Friedmann,2/13/2025,Adoption Return,9/21/2025,Adoption,221,221,221
+CCL-A-143,Mister George,Cat,Domestic Shorthair,,5/17/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Jacob Friedmann,2/13/2025,Adoption Return,9/21/2025,Adoption,221,221,221
+CCL-A-8198,Mouse,Cat,Domestic Shorthair,,8/11/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Piper Wright,2/12/2025,Stray In,3/21/2025,Adoption,38,38,38
+CCL-A-8199,Samson,Cat,Domestic Shorthair,,12/17/2021,Adult Cat (5 months-8 years),On Hold - In Shelter,"Catio Cat Lounge, Main Room",2/14/2025,Stray In,,,272,272,272
+CCL-A-8200,Bluie,Cat,Domestic Medium Hair,,4/30/2021,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Ross Grieb,2/11/2025,Stray In,3/7/2025,Adoption,25,25,25
+CCL-A-8201,Dexter,Cat,Maine Coon,Domestic Longhair,7/3/2022,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Courtney Morton,2/14/2025,Owner Surrender,2/22/2025,Adoption,9,9,9
+CCL-A-8158,Zebra,Cat,Domestic Shorthair,,9/27/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Megan English,2/17/2025,Adoption Return,3/17/2025,Adoption,29,29,29
+CCL-A-8202,Wacky Mikey,Cat,Domestic Shorthair,,12/14/2022,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Rebecca Addison,2/17/2025,Stray In,6/21/2025,Adoption,125,125,125
+CCL-A-8203,Angel,Cat,Domestic Shorthair,,2/12/2017,Senior Cat (8+ years),Healthy In Home,Adopted: Rebecca Garapic,2/16/2025,Stray In,2/21/2025,Adoption,6,6,6
+CCL-A-8204,Puma,Cat,Domestic Shorthair,,2/12/2013,Senior Cat (8+ years),Healthy In Home,Adopted: Meghan Parker,2/16/2025,Stray In,3/27/2025,Adoption,40,40,40
+CCL-A-8205,Monkey,Cat,Domestic Shorthair,,2/12/2017,Senior Cat (8+ years),Healthy In Home,Adopted: Alyssa Murphy Smith,2/16/2025,Stray In,4/22/2025,Adoption,66,66,66
+CCL-A-8206,Hitchhiker,Cat,Domestic Shorthair,,8/6/2023,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Tony  Bryson,2/18/2025,Stray In,3/3/2025,Adoption,14,14,11
+CCL-A-8207,Mr. Samson Meowzers,Cat,Domestic Longhair,,12/18/2022,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Suzanne Gregson,2/18/2025,Stray In,3/8/2025,Adoption,19,19,19
+CCL-A-8208,Jack,Cat,Domestic Medium Hair,,2/4/2021,Adult Cat (5 months-8 years),Available In Shelter,"Catio Cat Lounge, Hallway",2/20/2025,Stray In,4/18/2025,Adoption,58,58,58
+CCL-A-8209,Rocco,Cat,Domestic Shorthair,,2/20/2023,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Shelby  Faulkner,2/19/2025,Stray In,5/1/2025,Adoption,72,72,72
+CCL-A-8210,Baby Girl,Cat,Domestic Shorthair,,8/20/2023,Adult Cat (5 months-8 years),Available In Shelter,"Catio Cat Lounge, Main Room",2/24/2025,Stray In,,,262,262,262
+CCL-A-8211,Groucho,Cat,Domestic Shorthair,,8/15/2023,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Sawyer Mayne,2/24/2025,Stray In,3/18/2025,Adoption,23,23,23
+CCL-A-8212,Kiki,Cat,Domestic Shorthair,,2/21/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Cassandra Forster,2/25/2025,Stray In,8/26/2025,Adoption,183,183,183
+CCL-A-8213,Puma,Cat,Domestic Shorthair,,6/25/2013,Senior Cat (8+ years),Available In Shelter,"Catio Cat Lounge, Lobby",2/25/2025,Stray In,,,261,261,215
+CCL-A-8214,Yamato,Cat,Domestic Shorthair,,2/1/2021,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Linda  Blackstone,2/1/2025,Stray In,4/19/2025,Adoption,78,78,53
+CCL-A-8215,Uta,Cat,Domestic Shorthair,,2/1/2021,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Benjamin  Dunleavy,2/1/2025,Stray In,6/21/2025,Adoption,141,141,108
+CCL-A-8216,Soup,Cat,Domestic Shorthair,,7/25/2013,Senior Cat (8+ years),Healthy In Home,Adopted: Kennedy Paus,2/25/2025,Stray In,5/5/2025,Adoption,70,70,51
+CCL-A-8217,Dawn,Cat,Domestic Shorthair,,12/11/2023,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Jordan McBride,2/25/2025,Stray In,3/17/2025,Adoption,21,21,20
+CCL-A-8218,DeVito,Cat,Domestic Shorthair,,9/9/2023,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Hannelore Mancil,2/25/2025,Stray In,7/1/2025,Adoption,127,127,126
+CCL-A-8219,Sissy,Cat,Siamese,,2/24/2023,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Lauren Grein,2/28/2025,Stray In,8/30/2025,Adoption,184,184,184
+CCL-A-8178,Cloud,Cat,Domestic Shorthair,,6/5/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: John Qiu,2/28/2025,Adoption Return,5/28/2025,Adoption,90,90,90
+CCL-A-8220,Tisser,Cat,Domestic Shorthair,,2/28/2019,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Emily Reeves,2/17/2025,Owner Surrender,4/21/2025,Adoption,64,64,46
+CCL-A-8221,Smoke,Cat,Domestic Shorthair,,1/6/2014,Senior Cat (8+ years),Healthy In Home,Adopted: Seul Ki Choi,2/28/2025,Stray In,3/1/2025,Adoption,2,2,2
+CCL-A-48,Milo,Cat,Domestic Shorthair,,7/13/2022,Adult Cat (5 months-8 years),Unavailable in Shelter - Medical,"Catio Cat Lounge, Waiting on Transport from Foster",3/1/2025,Adoption Return,,,257,257,234
+CCL-A-8222,Leela,Cat,Domestic Shorthair,,3/2/2014,Senior Cat (8+ years),Healthy In Home,Adopted: Gregory Speakman,3/2/2025,Stray In,4/16/2025,Adoption,46,46,46
+CCL-A-8186,Kay,Cat,Domestic Shorthair,,8/25/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Klem-Mari Cajigas,3/2/2025,Adoption Return,3/28/2025,Adoption,27,27,27
+CCL-A-8191,Tatertot ,Cat,Domestic Shorthair,,8/15/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Klem-Mari Cajigas,3/2/2025,Adoption Return,3/28/2025,Adoption,27,27,27
+CCL-A-8223,Percy,Cat,Domestic Shorthair,,3/2/2017,Senior Cat (8+ years),Healthy In Home,Adopted: Allen Miille,3/2/2025,Stray In,8/9/2025,Adoption,161,161,51
+CCL-A-8224,Oreo,Cat,Domestic Shorthair,,3/5/2021,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Natalie Caswell,3/3/2025,Stray In,9/6/2025,Adoption,188,188,187
+CCL-A-8225,Margie,Cat,Domestic Shorthair,,12/20/2022,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Christine Trost,3/4/2025,Stray In,5/19/2025,Adoption,77,77,77
+CCL-A-8226,Mr. P,Cat,Domestic Shorthair,,2/19/2021,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Cory Steinhart,3/4/2025,Stray In,5/27/2025,Adoption,85,85,85
+CCL-A-8227,Bella,Cat,Domestic Shorthair,,10/29/2010,Senior Cat (8+ years),Healthy In Home,Adopted: Desiree Lynch,3/2/2025,Stray In,5/26/2025,Adoption,86,86,69
+CCL-A-8228,Gus,Cat,Domestic Longhair,,10/29/2010,Senior Cat (8+ years),Deceased,N/A,3/2/2025,Stray In,4/11/2025,Euthanasia,41,41,27
+CCL-A-8229,Noodles,Cat,Domestic Shorthair,,3/5/2020,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Sarah Young,3/5/2025,Stray In,6/6/2025,Adoption,94,94,94
+CCL-A-8230,Jill,Cat,Domestic Shorthair,,5/30/2022,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Mishell Jacobs,3/5/2025,Stray In,7/22/2025,Adoption,140,140,140
+CCL-A-8231,Abbott,Cat,Domestic Shorthair,,3/5/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Rebecca Renner,2/27/2025,Stray In,3/17/2025,Adoption,19,19,19
+CCL-A-8232,Castello,Cat,Domestic Shorthair,,3/5/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Ashley Terry,2/27/2025,Stray In,3/10/2025,Adoption,12,12,12
+CCL-A-8233,Cosette,Cat,Domestic Shorthair,,10/6/2023,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Linda  Blackstone,3/6/2025,Stray In,4/19/2025,Adoption,45,45,45
+CCL-A-8234,Dave,Cat,Domestic Shorthair,,6/7/2013,Senior Cat (8+ years),Healthy In Home,Adopted: Ashley Ryckman,2/10/2025,Stray In,8/9/2025,Adoption,181,181,181
+CCL-A-8235,Georjie,Cat,Domestic Shorthair,,4/13/2021,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Elizabeth Nelson,3/14/2025,Stray In,6/13/2025,Adoption,92,92,92
+CCL-A-8236,Oliver,Cat,Domestic Shorthair,,5/13/2021,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Elizabeth Nelson,3/14/2025,Stray In,6/13/2025,Adoption,92,92,92
+CCL-A-8237,Minnie,Cat,Domestic Shorthair,,9/19/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Harrison Burriss,3/4/2025,Stray In,6/21/2025,Adoption,110,110,71
+CCL-A-8238,Pearl,Cat,Domestic Shorthair,,9/19/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Sara Moore,3/19/2025,Stray In,4/7/2025,Adoption,20,20,4
+CCL-A-8239,Mac and Cheese,Cat,Domestic Shorthair,,12/21/2017,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Rebecca Addison,3/25/2025,Stray In,6/21/2025,Adoption,89,89,89
+CCL-A-8240,Beanie Baby,Cat,Domestic Shorthair,,3/24/2021,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Anthony Grieco,3/25/2025,Stray In,4/18/2025,Adoption,25,25,25
+CCL-A-8241,Jupiter,Cat,Domestic Shorthair,,9/24/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Theresa Cochrane-LeShane,3/25/2025,Stray In,4/2/2025,Adoption,9,9,9
+CCL-A-8242,Ziggy,Cat,Domestic Shorthair,,10/24/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Samantha McClain,3/25/2025,Stray In,3/28/2025,Adoption,4,4,4
+CCL-A-8243,Pepper,Cat,Domestic Shorthair,,10/24/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Samantha McClain,3/25/2025,Stray In,3/28/2025,Adoption,4,4,4
+CCL-A-8244,Jolene,Cat,Domestic Shorthair,,10/24/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Kyleigh Stewart,3/25/2025,Stray In,5/6/2025,Adoption,43,43,43
+CCL-A-8245,Cooper,Cat,Domestic Shorthair,,3/25/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Theresa Cochrane-LeShane,3/25/2025,Stray In,4/2/2025,Adoption,9,9,9
+CCL-A-8246,Olivia,Cat,Domestic Shorthair,,11/4/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Ariana Arizmendi,3/26/2025,Stray In,4/16/2025,Adoption,22,22,22
+CCL-A-8247,Oliver,Cat,Domestic Shorthair,,11/4/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Anthony Grieco,3/26/2025,Stray In,4/22/2025,Adoption,28,28,28
+CCL-A-8248,Gogo Boots,Cat,Domestic Shorthair,,12/18/2024,Unweaned (0-6 weeks),Healthy In Home,Adopted: Gary Dempsey,12/22/2024,Stray In,5/13/2025,Adoption,143,143,11
+CCL-A-8249,High Boots,Cat,Domestic Shorthair,,12/18/2024,Unweaned (0-6 weeks),Healthy In Home,Adopted: Gary Dempsey,12/22/2024,Stray In,5/13/2025,Adoption,143,143,11
+CCL-A-8250,Willa,Cat,Domestic Shorthair,,12/18/2024,Unweaned (0-6 weeks),Healthy In Home,Adopted: Lexie Nunley,12/22/2024,Stray In,5/17/2025,Adoption,147,147,15
+CCL-A-8251,Lady,Cat,Domestic Shorthair,,3/1/2023,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Kelsey Mahaffey,3/30/2025,Stray In,9/5/2025,Adoption,160,160,160
+CCL-A-8252,John,Cat,Domestic Shorthair,,11/11/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Ian Clayton,3/30/2025,Stray In,4/7/2025,Adoption,9,9,9
+CCL-A-8253,Luke,Cat,Domestic Shorthair,,11/11/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Hayley Britton (Fahey),3/30/2025,Stray In,4/14/2025,Adoption,16,16,16
+CCL-A-8254,Short Stuff,Cat,Domestic Shorthair,,11/11/2024,Kitten (6 weeks-5 months),Available In Shelter,"Catio Cat Lounge, Main Room",3/30/2025,Stray In,,,228,228,210
+CCL-A-8255,Pebbles,Cat,Domestic Shorthair,,1/7/2023,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Riyanna Pouv,3/31/2025,Stray In,9/8/2025,Adoption,162,162,60
+CCL-A-8256,Cooper,Cat,Domestic Longhair,,12/26/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Sarah Norris,4/1/2025,Stray In,4/14/2025,Adoption,14,14,14
+CCL-A-8257,Ghost,Cat,Siamese,,3/27/2023,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Carolyn Watts,4/3/2025,Stray In,4/20/2025,Adoption,18,18,18
+CCL-A-8258,Hera,Cat,Domestic Shorthair,,9/11/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Anupriya Karippadath,3/1/2025,Stray In,4/14/2025,Adoption,45,45,45
+CCL-A-8259,Winifred (Winie),Cat,Domestic Shorthair,,3/5/2021,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Haley Knowles,4/6/2025,Owner Surrender,8/31/2025,Adoption,148,148,142
+CCL-A-260,Bailey,Cat,Domestic Shorthair,,5/2/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Paige Nehlsen,4/9/2025,Adoption Return,4/22/2025,Adoption,14,14,14
+CCL-A-111,Toulouse,Cat,Domestic Shorthair,,4/16/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Abby Levesque,4/9/2025,Adoption Return,4/30/2025,Adoption,22,22,22
+CCL-A-132,Dobby,Cat,Domestic Shorthair,,4/28/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Abby Levesque,4/9/2025,Adoption Return,4/30/2025,Adoption,22,22,22
+CCL-A-8260,Cheri Oteri,Cat,Domestic Shorthair,,1/24/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Natalie Davis,4/13/2025,Stray In,4/16/2025,Adoption,4,4,4
+CCL-A-8261,Storm Chaser,Cat,Siamese,,1/24/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Autumn Smith,4/13/2025,Stray In,4/16/2025,Adoption,4,4,4
+CCL-A-8262,Elvira,Cat,Domestic Shorthair,,1/24/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Mary-McClain Colgrove,4/13/2025,Stray In,4/16/2025,Adoption,4,4,4
+CCL-A-8263,Alfie,Cat,Domestic Shorthair,,1/24/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Devin Carlisle,4/13/2025,Stray In,4/16/2025,Adoption,4,4,4
+CCL-A-8264,Chatty Cathy,Cat,Domestic Shorthair,,2/5/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Nickolas De Oliveira,4/13/2025,Stray In,5/6/2025,Adoption,24,24,24
+CCL-A-231,Atlas,Cat,Domestic Shorthair,,6/16/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Kayla Moore,4/14/2025,Adoption Return,6/5/2025,Adoption,53,53,28
+CCL-A-8265,Danny Boy,Cat,Domestic Longhair,,2/6/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Maureen Fieldhouse,4/15/2025,Stray In,8/17/2025,Adoption,125,125,124
+CCL-A-8266,Venus,Cat,Domestic Shorthair,,10/6/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Luke Skaggs,4/15/2025,Stray In,9/6/2025,Adoption,145,145,144
+CCL-A-8267,Tina,Cat,Domestic Shorthair,,10/12/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Emily Garner,4/15/2025,Stray In,4/30/2025,Adoption,16,16,15
+CCL-A-8268,Josephine,Cat,Domestic Shorthair,,10/30/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Laura Supon,4/15/2025,Stray In,5/1/2025,Adoption,17,17,16
+CCL-A-8269,Tiggy,Cat,Domestic Shorthair,,11/17/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Margaret  Lyle,4/15/2025,Stray In,5/21/2025,Adoption,37,37,36
+CCL-A-8270,Nimbus,Cat,Domestic Shorthair,,11/28/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Catherine Whittet,4/15/2025,Stray In,6/18/2025,Adoption,65,65,64
+CCL-A-8271,Midnight,Cat,Domestic Shorthair,,12/3/2024,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Andrea Pemberton,4/17/2025,Stray In,7/10/2025,Adoption,85,85,81
+CCL-A-8272,Holmes,Cat,Domestic Shorthair,,10/18/2023,Adult Cat (5 months-8 years),Available In Shelter,"Catio Cat Lounge, Main Room",4/18/2025,Stray In,,,209,209,185
+CCL-A-8274,Misty (Zinkie),Cat,Domestic Medium Hair,,10/7/2020,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Kat Montgomery,4/24/2025,Stray In,5/27/2025,Adoption,34,34,34
+CCL-A-8208,Jack,Cat,Domestic Medium Hair,,2/4/2021,Adult Cat (5 months-8 years),Available In Shelter,"Catio Cat Lounge, Hallway",4/26/2025,Adoption Return,,,201,201,63
+CCL-A-8275,Xander,Cat,Domestic Shorthair,,5/22/2024,Adult Cat (5 months-8 years),On Hold - In Shelter,"Catio Cat Lounge, Waiting on Transport from Foster",4/28/2025,Transfer In,,,199,199,199
+CCL-A-8276,Velma,Cat,Domestic Shorthair,,8/31/2014,Senior Cat (8+ years),Healthy In Home,Adopted: Kat Trimmer,4/29/2025,Stray In,4/29/2025,Adoption,1,1,1
+CCL-A-8278,Rooibos ,Cat,Domestic Shorthair,,5/1/2022,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Kira Palmiter,5/1/2025,Stray In,5/10/2025,Adoption,10,10,10
+CCL-A-8279,Salam (Rhubarb),Cat,Domestic Shorthair,,4/5/2020,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Michael Graves,5/7/2025,Owner Surrender,6/3/2025,Adoption,28,28,28
+CCL-A-8238,Pearl,Cat,Domestic Shorthair,,9/19/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Sara Moore,5/7/2025,Adoption Return,5/23/2025,Adoption,17,17,17
+CCL-A-8280,Figaro,Cat,Domestic Shorthair,,1/30/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Lexi Radcliffe,5/8/2025,Stray In,5/11/2025,Adoption,4,4,3
+CCL-A-8281,Bryce,Cat,Domestic Shorthair,,1/30/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Dniya Beard,5/8/2025,Stray In,5/13/2025,Adoption,6,6,5
+CCL-A-8282,Goose,Cat,Siamese,,1/15/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Dniya Beard,5/8/2025,Stray In,5/13/2025,Adoption,6,6,5
+CCL-A-8283,Aspen,Cat,Siamese,,1/15/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Lexi Radcliffe,5/8/2025,Stray In,5/11/2025,Adoption,4,4,3
+CCL-A-8284,Marlo,Cat,Domestic Shorthair,,1/30/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Tobias  Flowers,5/8/2025,Stray In,5/15/2025,Adoption,8,8,7
+CCL-A-8285,Winston,Cat,Domestic Shorthair,,2/1/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Tobias  Flowers,5/8/2025,Stray In,5/15/2025,Adoption,8,8,7
+CCL-A-8286,Wilbur,Cat,Domestic Medium Hair,,3/17/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Katelyn Arone,5/13/2025,Stray In,9/15/2025,Adoption,126,12,12
+CCL-A-8287,Gregory,Cat,Domestic Shorthair,,8/13/2020,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Lulu Hershey,5/16/2025,Owner Surrender,6/3/2025,Adoption,19,19,19
+CCL-A-8288,Thomas,Cat,Domestic Longhair,,3/13/2022,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Chau Nguyen,5/16/2025,Owner Surrender,5/17/2025,Adoption,2,2,2
+CCL-A-8289,Fiesta,Cat,Domestic Shorthair,,5/21/2022,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Amy Harris-Aber,5/21/2025,Owner Surrender,7/31/2025,Adoption,72,72,39
+CCL-A-8290,Jake,Cat,Domestic Shorthair,,1/1/2016,Senior Cat (8+ years),Available In Shelter,"Catio Cat Lounge, Senior Room",5/22/2025,Stray In,,,175,175,175
+CCL-A-8291,Banjo,Cat,Domestic Longhair,,3/27/2015,Senior Cat (8+ years),Healthy In Home,Adopted: Kelly Southard,5/22/2025,Stray In,11/3/2025,Adoption,166,166,148
+CCL-A-8292,Hey You,Cat,Domestic Shorthair,,4/8/2015,Senior Cat (8+ years),Available In Shelter,"Donelson Animal Hospital, Sick Kennels",5/22/2025,Stray In,,,175,175,40
+CCL-A-8293,Limerick ,Cat,Domestic Shorthair,,3/23/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Mariah LeCroy,5/23/2025,Stray In,5/27/2025,Adoption,5,5,5
+CCL-A-8129,Munchkin,Cat,Domestic Shorthair,,8/30/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Ashley Ryckman,5/25/2025,Adoption Return,8/9/2025,Adoption,77,77,77
+CCL-A-8294,Juniper,Cat,Domestic Shorthair,,4/1/2022,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Destiney Mccardell,5/27/2025,Owner Surrender,6/6/2025,Adoption,11,11,11
+CCL-A-8295,Bambi,Cat,Domestic Medium Hair,,1/7/2022,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Katherine Oung,5/27/2025,Owner Surrender,6/6/2025,Adoption,11,11,11
+CCL-A-8296,Shadow,Cat,Domestic Shorthair,,11/14/2013,Senior Cat (8+ years),Unavailable in Shelter - Medical,"Catio Cat Lounge, Foster to Adopt",5/28/2025,Stray In,,,169,169,10
+CCL-A-8297,Catastrophic,Cat,Domestic Medium Hair,,5/28/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Cassandra Forster,4/7/2025,Stray In,8/26/2025,Adoption,142,142,142
+CCL-A-8307,Opie,Cat,Domestic Shorthair,,7/8/2024,Adult Cat (5 months-8 years),Available In Shelter,"Catio Cat Lounge, Main Room",5/29/2025,Transfer In,,,168,168,168
+CCL-A-8298,Lucas,Cat,Domestic Shorthair,,3/23/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Caleb Scott,5/29/2025,Transfer In,6/11/2025,Adoption,14,14,14
+CCL-A-8299,Melody,Cat,Domestic Shorthair,,3/23/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Katie Harper,5/29/2025,Transfer In,6/2/2025,Adoption,5,5,5
+CCL-A-8300,Baby Sue,Cat,Domestic Shorthair,,2/15/2025,Kitten (6 weeks-5 months),Available In Shelter,"Catio Cat Lounge, Main Room",5/29/2025,Transfer In,,,168,168,99
+CCL-A-8301,Cheyenne ,Cat,Domestic Shorthair,,3/10/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Mya Cooke,5/29/2025,Transfer In,7/21/2025,Adoption,54,54,54
+CCL-A-8302,Astro Boy,Cat,Domestic Shorthair,,3/10/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Marin  Murack,5/29/2025,Transfer In,6/6/2025,Adoption,9,9,9
+CCL-A-8303,Tilly,Cat,Domestic Shorthair,,3/26/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Maigan Thompson,5/29/2025,Transfer In,6/2/2025,Adoption,5,5,5
+CCL-A-8304,Odie,Cat,Domestic Shorthair,,3/26/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Katie Harper,5/29/2025,Transfer In,6/2/2025,Adoption,5,5,5
+CCL-A-8305,India Doll ,Cat,Domestic Shorthair,Domestic Shorthair,3/14/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Marin Tonelli,5/29/2025,Transfer In,6/18/2025,Adoption,21,21,21
+CCL-A-8306,Asia Doll,Cat,Domestic Shorthair,Domestic Shorthair,3/14/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Shelby Poeplau,5/29/2025,Transfer In,7/29/2025,Adoption,62,62,62
+CCL-A-8308,Summer Breeze,Cat,Domestic Shorthair,,3/10/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Jafer  Aljorani,5/29/2025,Transfer In,7/16/2025,Adoption,49,49,49
+CCL-A-8309,Mowgli,Cat,Domestic Medium Hair,,5/30/2016,Senior Cat (8+ years),Healthy In Home,Adopted: Zeke Yarbrough,5/30/2025,Owner Surrender,7/29/2025,Adoption,61,61,61
+CCL-A-8310,Maple Muffin ,Cat,Domestic Shorthair,,9/1/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Traci Steffen,5/31/2025,Transfer In,6/6/2025,Adoption,7,7,7
+CCL-A-8311,Strudel ,Cat,Domestic Shorthair,,2/8/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Justin Barker,5/31/2025,Transfer In,6/6/2025,Adoption,7,7,7
+CCL-A-8312,Churro,Cat,Manx,,2/8/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Carly Gurule,5/31/2025,Transfer In,6/10/2025,Adoption,11,11,11
+CCL-A-8313,Ganache,Cat,Domestic Shorthair,,2/8/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: John Narum,5/31/2025,Transfer In,7/13/2025,Adoption,44,44,44
+CCL-A-8314,Cannoli,Cat,Domestic Shorthair,Manx,2/8/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: John Narum,5/31/2025,Transfer In,7/3/2025,Adoption,34,34,34
+CCL-A-8315,Bailey,Cat,Domestic Shorthair,,7/1/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Austin Mills,5/31/2025,Transfer In,6/18/2025,Adoption,19,19,19
+CCL-A-8316,Sage,Cat,Domestic Shorthair,,7/4/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Zhiyao Zhang,6/1/2025,Stray In,6/25/2025,Adoption,25,25,25
+CCL-A-8317,Milo,Cat,Domestic Shorthair,,7/4/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Catherine Whittet,6/1/2025,Stray In,6/18/2025,Adoption,18,18,18
+CCL-A-8318,Dory,Cat,Domestic Shorthair,,6/4/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Ian McAulay,6/1/2025,Stray In,7/22/2025,Adoption,52,52,52
+CCL-A-8150,Mouse,Cat,Domestic Shorthair,,7/14/2018,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Dustin  Chandler,6/4/2025,Adoption Return,7/3/2025,Adoption,30,30,14
+CCL-A-8320,Nimbus,Cat,Domestic Shorthair,,3/10/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Kerry Fleming,6/5/2025,Transfer In,6/20/2025,Adoption,16,16,16
+CCL-A-8321,PeaPot,Cat,Domestic Shorthair,,3/26/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Lisa Adams,6/5/2025,Transfer In,10/20/2025,Adoption,138,138,100
+CCL-A-8322,Posey,Cat,Domestic Shorthair,,3/26/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Marin Tonelli,6/5/2025,Transfer In,6/18/2025,Adoption,14,14,14
+CCL-A-8323,Penelope,Cat,Domestic Longhair,,4/4/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Dakota Douglas,6/5/2025,Transfer In,6/6/2025,Adoption,2,2,2
+CCL-A-8324,Waffles,Cat,Domestic Longhair,,4/4/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Emily Meaney,6/5/2025,Transfer In,10/6/2025,Adoption,124,124,86
+CCL-A-8325,Furball Fandango,Cat,Domestic Longhair,,4/4/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Diana Nix,6/5/2025,Transfer In,6/9/2025,Adoption,5,5,5
+CCL-A-8326,Popper,Cat,Domestic Shorthair,,3/26/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Vienna Affatigato,6/5/2025,Transfer In,6/13/2025,Adoption,9,9,9
+CCL-A-8327,Flynn,Cat,Domestic Shorthair,,3/4/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Ana Matura,6/5/2025,Transfer In,6/9/2025,Adoption,5,5,5
+CCL-A-8328,Fern,Cat,Domestic Shorthair,,3/14/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Austin Mills,6/5/2025,Transfer In,6/18/2025,Adoption,14,14,14
+CCL-A-8329,Kenny,Cat,Domestic Shorthair,,2/2/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Nikil Bringi,6/5/2025,Transfer In,7/22/2025,Adoption,48,48,48
+CCL-A-8330,Kip,Cat,Domestic Shorthair,,2/2/2025,Kitten (6 weeks-5 months),Available In Shelter,"Catio Cat Lounge, Main Room",6/5/2025,Transfer In,6/25/2025,Adoption,21,21,21
+CCL-A-8331,Elwood,Cat,Domestic Shorthair,Siamese,4/6/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Ana Matura,6/7/2025,Transfer In,6/9/2025,Adoption,3,3,3
+CCL-A-8332,Lady,Cat,Domestic Shorthair,,2/4/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Asia Pace,6/7/2025,Transfer In,6/13/2025,Adoption,7,7,7
+CCL-A-8333,Tang,Cat,Domestic Shorthair,,2/4/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Tyjahe Jones,6/7/2025,Transfer In,7/17/2025,Adoption,41,41,41
+CCL-A-8334,Reno,Cat,Domestic Shorthair,,2/4/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Kerry Fleming,6/7/2025,Transfer In,6/20/2025,Adoption,14,14,14
+CCL-A-8335,Lucy,Cat,Domestic Shorthair,,3/2/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Emmaleigh Taylor,6/7/2025,Transfer In,6/16/2025,Adoption,10,10,10
+CCL-A-8336,Eddi,Cat,Domestic Shorthair,,3/2/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Dylan Willcutt,6/7/2025,Transfer In,6/30/2025,Adoption,24,24,24
+CCL-A-8337,Tortellini ,Cat,Domestic Shorthair,,3/2/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Dylan Willcutt,6/7/2025,Transfer In,6/30/2025,Adoption,24,24,24
+CCL-A-8338,Boro,Cat,Domestic Shorthair,,5/11/2022,Adult Cat (5 months-8 years),Available In Shelter,"Catio Cat Lounge, Main Room",6/11/2025,Owner Surrender,,,155,155,6
+CCL-A-8339,Boo Baby ,Cat,Domestic Shorthair,,5/25/2021,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Catherine Kaupp,6/12/2025,Owner Surrender,7/14/2025,Adoption,33,33,33
+CCL-A-8340,Forte,Cat,Domestic Longhair,,11/21/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Patrick Ziemer,6/21/2025,Stray In,7/4/2025,Adoption,14,14,14
+CCL-A-8341,Hobbs,Cat,Domestic Shorthair,,3/4/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Rebecca Brinney,6/23/2025,Stray In,7/1/2025,Adoption,9,9,9
+CCL-A-8342,Fiona,Cat,Domestic Shorthair,,4/1/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Desiree Morris,6/23/2025,Stray In,7/7/2025,Adoption,15,15,15
+CCL-A-8343,Susie,Cat,Domestic Medium Hair,,5/24/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Maya Tilberg,6/23/2025,Stray In,7/1/2025,Adoption,9,9,9
+CCL-A-8344,Gus,Cat,Domestic Shorthair,,3/26/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Christina Dusky,6/23/2025,Stray In,6/27/2025,Adoption,5,5,5
+CCL-A-8345,Jake,Cat,Domestic Shorthair,,3/26/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Christina Dusky,6/23/2025,Stray In,6/27/2025,Adoption,5,5,5
+CCL-A-8346,Olivia,Cat,Domestic Shorthair,,4/1/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Desiree Morris,6/23/2025,Stray In,7/7/2025,Adoption,15,15,15
+CCL-A-8347,Rosie Belle,Cat,Domestic Shorthair,,4/1/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Beth Nguyen,6/23/2025,Stray In,6/26/2025,Adoption,4,4,4
+CCL-A-8348,Josie,Cat,Domestic Shorthair,,5/30/2015,Senior Cat (8+ years),Healthy In Home,Adopted: Bailey Sullivan,6/26/2025,Stray In,9/7/2025,Adoption,74,74,74
+CCL-A-8349,Sadie,Cat,Domestic Shorthair,,5/30/2012,Senior Cat (8+ years),Deceased,N/A,6/26/2025,Stray In,7/18/2025,Euthanasia,23,23,23
+CCL-A-8350,Hickory,Cat,Domestic Shorthair,,3/27/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Sabrina Alexander,6/27/2025,Stray In,8/1/2025,Adoption,36,36,36
+CCL-A-8351,Madison,Cat,Domestic Shorthair,,3/27/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Daniel Spindler,6/28/2025,Stray In,8/16/2025,Adoption,50,50,50
+CCL-A-8352,Oakley,Cat,Domestic Shorthair,,7/2/2021,Adult Cat (5 months-8 years),Foster to Adopt,Foster Care: Desiree Lynch,7/2/2025,Stray In,,,134,110,19
+CCL-A-8353,Vance,Cat,Domestic Shorthair,,6/19/2023,Adult Cat (5 months-8 years),Available In Shelter,"Catio Cat Lounge, Main Room",7/2/2025,Stray In,,,134,134,126
+CCL-A-8354,Wynn,Cat,Domestic Shorthair,,4/17/2021,Adult Cat (5 months-8 years),Available In Shelter,"Catio Cat Lounge, Main Room",7/2/2025,Stray In,,,134,134,115
+CCL-A-8158,Zebra,Cat,Domestic Shorthair,,9/27/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Megan English,7/5/2025,Adoption Return,8/9/2025,Adoption,36,36,15
+CCL-A-8355,Tiny,Cat,Domestic Shorthair,,4/25/2025,Kitten (6 weeks-5 months),Unavailable Foster - Medical,Foster Care: Kat Trimmer,7/10/2025,Stray In,,,126,78,78
+CCL-A-8356,Little,Cat,Domestic Shorthair,,4/25/2025,Kitten (6 weeks-5 months),Unavailable Foster - Medical,Foster Care: Kat Trimmer,7/10/2025,Stray In,,,126,78,78
+CCL-A-8357,Sausage,Cat,Domestic Shorthair,,4/10/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Rachel Daniel,7/10/2025,Stray In,10/3/2025,Adoption,86,86,68
+CCL-A-8358,Baby,Cat,Domestic Shorthair,,4/25/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Connor Baucom,7/10/2025,Stray In,7/17/2025,Adoption,8,8,8
+CCL-A-8359,Claire,Cat,Domestic Shorthair,,4/23/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Emma Foldenauer,7/11/2025,Stray In,7/29/2025,Adoption,19,19,17
+CCL-A-8360,Ripley,Cat,Domestic Shorthair,,4/23/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Christina Gill,7/11/2025,Stray In,7/14/2025,Adoption,4,4,2
+CCL-A-8361,Sprout,Cat,Domestic Shorthair,,4/23/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Christina Gill,7/11/2025,Stray In,7/14/2025,Adoption,4,4,2
+CCL-A-8362,Tiger,Cat,Domestic Shorthair,,4/23/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Kayla Capper,7/11/2025,Stray In,7/16/2025,Adoption,6,6,4
+CCL-A-8363,Wren,Cat,Domestic Shorthair,,4/23/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Jafer  Aljorani,7/11/2025,Stray In,7/16/2025,Adoption,6,6,4
+CCL-A-8364,Gembalya,Cat,Domestic Shorthair,,4/13/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Nicole Rhodes,7/11/2025,Stray In,7/22/2025,Adoption,12,12,10
+CCL-A-8365,Marlin,Cat,Domestic Shorthair,,4/13/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Will Gaggioli,7/11/2025,Stray In,7/25/2025,Adoption,15,15,13
+CCL-A-8366,Maxine,Cat,Domestic Shorthair,,4/18/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Angie Ellenbecker,7/11/2025,Stray In,7/29/2025,Adoption,19,19,17
+CCL-A-8367,Tobi,Cat,Domestic Shorthair,,4/18/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Angie Ellenbecker,7/11/2025,Stray In,7/22/2025,Adoption,12,12,10
+CCL-A-8368,Dolly,Cat,Domestic Medium Hair,,4/18/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Brenda Fauteux,7/11/2025,Stray In,7/22/2025,Adoption,12,12,10
+CCL-A-8369,Nigel,Cat,Domestic Shorthair,,4/18/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Stefanie Waterman,7/11/2025,Stray In,7/17/2025,Adoption,7,7,5
+CCL-A-8370,Dandylion,Cat,Domestic Shorthair,,12/27/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Sofia Rivera Sojo,7/12/2025,Stray In,10/20/2025,Adoption,101,101,82
+CCL-A-8371,Theodore,Cat,Domestic Shorthair,,6/19/2024,Adult Cat (5 months-8 years),Available In Shelter,"Catio Cat Lounge, Senior Room",7/12/2025,Stray In,,,124,124,96
+CCL-A-8372,Chai (Brownie),Cat,Siamese,,3/18/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Ryan Rose,7/22/2025,Stray In,7/30/2025,Adoption,9,9,2
+CCL-A-8373,Mowgli (Mako),Cat,Domestic Shorthair,,4/24/2021,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Bradley Casteel,7/23/2025,Stray In,8/31/2025,Adoption,40,40,40
+CCL-A-8294,Juniper,Cat,Domestic Shorthair,,4/1/2022,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Destiney Mccardell,7/24/2025,Adoption Return,7/29/2025,Adoption,6,6,6
+CCL-A-8295,Bambi,Cat,Domestic Medium Hair,,1/7/2022,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Katherine Oung,7/24/2025,Adoption Return,7/29/2025,Adoption,6,6,6
+CCL-A-8374,ChinChin,Cat,Domestic Shorthair,,4/26/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Sahara Cartwright,7/24/2025,Stray In,8/1/2025,Adoption,9,9,7
+CCL-A-8375,Boop,Cat,Domestic Medium Hair,,4/26/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Andy Wesolek,7/24/2025,Stray In,8/5/2025,Adoption,13,13,11
+CCL-A-8376,LC,Cat,Domestic Shorthair,,4/26/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Tara Perkins,7/24/2025,Stray In,8/12/2025,Adoption,20,20,18
+CCL-A-8377,Scarface,Cat,Domestic Medium Hair,,4/26/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Olivia Rawlings,7/24/2025,Stray In,8/5/2025,Adoption,13,13,11
+CCL-A-8378,Stashe,Cat,Domestic Shorthair,,4/26/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Sohaib Hasan,7/24/2025,Stray In,9/17/2025,Adoption,56,56,54
+CCL-A-8379,Olive,Cat,Domestic Shorthair,,4/15/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Lisa Bakkes,7/29/2025,Stray In,8/16/2025,Adoption,19,19,19
+CCL-A-8380,Puzzles,Cat,Siamese,,7/17/2023,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Chris Boehm,7/31/2025,Stray In,8/1/2025,Adoption,2,2,2
+CCL-A-8367,Tobi,Cat,Domestic Shorthair,,4/18/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Angie Ellenbecker,8/1/2025,Adoption Return,8/9/2025,Adoption,9,9,9
+CCL-A-8381,Cinder,Cat,Domestic Shorthair,,4/13/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Melinda Rathjen,8/1/2025,Stray In,8/11/2025,Adoption,11,11,11
+CCL-A-8382,Boo-Boo,Cat,Domestic Shorthair,,4/13/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Sarah Holland,8/1/2025,Stray In,8/11/2025,Adoption,11,11,11
+CCL-A-8383,Todd,Cat,Domestic Shorthair,,4/14/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Anna Lister,8/1/2025,Stray In,8/28/2025,Adoption,28,28,23
+CCL-A-8384,Calvin,Cat,Domestic Shorthair,,4/16/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Christy Collier,8/1/2025,Stray In,8/9/2025,Adoption,9,9,9
+CCL-A-8385,Iris,Cat,Domestic Shorthair,,4/18/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Melinda Rathjen,8/1/2025,Stray In,8/11/2025,Adoption,11,11,11
+CCL-A-8386,Chance,Cat,Domestic Shorthair,,4/20/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Hallee Watson,8/1/2025,Stray In,8/9/2025,Adoption,9,9,9
+CCL-A-8387,Makaela,Cat,Domestic Shorthair,,4/25/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Sarah Lefkowitz,8/1/2025,Stray In,8/12/2025,Adoption,12,12,12
+CCL-A-8388,Aria,Cat,Domestic Shorthair,,4/25/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Melinda Rathjen,8/1/2025,Stray In,8/11/2025,Adoption,11,11,11
+CCL-A-8389,Cole,Cat,Domestic Shorthair,,3/15/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Madigan Wheelock,8/1/2025,Stray In,8/12/2025,Adoption,12,12,12
+CCL-A-8390,Eli,Cat,Domestic Shorthair,,5/7/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Madigan Wheelock,8/1/2025,Stray In,8/12/2025,Adoption,12,12,12
+CCL-A-8391,Elly,Cat,Domestic Shorthair,,8/1/2025,Unweaned (0-6 weeks),Healthy In Home,Adopted: Tara Perkins,8/1/2025,Stray In,8/12/2025,Adoption,12,12,12
+CCL-A-8392,Kacky,Cat,Siamese,,10/15/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Tatianna Kuranda,8/1/2025,Stray In,8/26/2025,Adoption,26,26,26
+CCL-A-8393,Micky,Cat,Domestic Shorthair,,3/25/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Hallee Watson,8/1/2025,Stray In,8/9/2025,Adoption,9,9,9
+CCL-A-8394,Willie,Cat,Domestic Shorthair,,6/1/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Zachary Moore,8/1/2025,Stray In,8/19/2025,Adoption,19,19,19
+CCL-A-8395,Ophelia,Cat,Domestic Shorthair,,7/15/2022,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Tyler Young,8/2/2025,Stray In,8/19/2025,Adoption,18,18,18
+CCL-A-8396,Sadie,Cat,Domestic Shorthair,,8/2/2025,Unweaned (0-6 weeks),Healthy In Home,Adopted: Sarah Holland,8/2/2025,Stray In,8/11/2025,Adoption,10,10,10
+CCL-A-8397,Rocky,Cat,Domestic Shorthair,,8/2/2025,Unweaned (0-6 weeks),Healthy In Home,Adopted: Daniel Spindler,8/2/2025,Stray In,8/16/2025,Adoption,15,15,15
+CCL-A-8398,Chloe,Cat,Domestic Shorthair,,4/25/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Laila Mahmoud,8/2/2025,Stray In,8/19/2025,Adoption,18,18,18
+CCL-A-8399,Jamie,Cat,Domestic Shorthair,,4/18/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Dante Digiamberardino,8/2/2025,Stray In,8/26/2025,Adoption,25,25,25
+CCL-A-8366,Maxine,Cat,Domestic Shorthair,,4/18/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Angie Ellenbecker,8/3/2025,Adoption Return,8/9/2025,Adoption,7,7,7
+CCL-A-8400,Onyx,Cat,Domestic Shorthair,,8/4/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Tyjahe Jones,8/4/2025,Stray In,9/29/2025,Adoption,57,47,47
+CCL-A-8401,Smokey,Cat,Domestic Shorthair,,2/28/2025,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Susan Casavant,8/4/2025,Stray In,8/22/2025,Adoption,19,8,1
+CCL-A-8402,Amber,Cat,Domestic Shorthair,,3/4/2025,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Jarrod Ramirez,8/4/2025,Stray In,8/29/2025,Adoption,26,16,8
+CCL-A-8403,Jasper,Cat,Domestic Shorthair,,3/4/2025,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Jade Obriant,8/4/2025,Stray In,9/2/2025,Adoption,30,20,12
+CCL-A-8404,Quartz,Cat,Domestic Shorthair,,3/4/2025,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Bree Friedrichs,8/4/2025,Stray In,8/31/2025,Adoption,28,18,10
+CCL-A-8405,Jet,Cat,Domestic Shorthair,,3/4/2025,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Dante Digiamberardino,8/4/2025,Stray In,8/26/2025,Adoption,23,13,5
+CCL-A-8330,Kip,Cat,Domestic Shorthair,,2/2/2025,Adult Cat (5 months-8 years),Available In Shelter,"Catio Cat Lounge, Main Room",8/5/2025,Adoption Return,,,100,100,64
+CCL-A-8406,Speedy,Cat,Domestic Shorthair,,4/28/2025,Kitten (6 weeks-5 months),Available In Shelter,"Catio Cat Lounge, Main Room",8/7/2025,Stray In,8/17/2025,Adoption,11,11,11
+CCL-A-8407,Murdoch,Cat,Domestic Longhair,,5/15/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Steph Koehler,8/12/2025,Stray In,8/15/2025,Adoption,4,4,4
+CCL-A-8408,Scraps,Cat,Domestic Medium Hair,,5/15/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Steph Koehler,8/12/2025,Stray In,8/15/2025,Adoption,4,4,4
+CCL-A-8295,Bambi,Cat,Domestic Medium Hair,,1/7/2022,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Katherine Oung,8/14/2025,Adoption Return,10/20/2025,Adoption,68,68,68
+CCL-A-8409,Ms. Kitty,Cat,Domestic Shorthair,,4/11/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Susan Casavant,8/14/2025,Stray In,8/22/2025,Adoption,9,9,1
+CCL-A-8410,Felicity,Cat,Domestic Medium Hair,,3/28/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Sophie Pavletich,8/15/2025,Stray In,8/27/2025,Adoption,13,13,13
+CCL-A-8411,USB,Cat,Domestic Shorthair,,5/1/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Hayden Brammer,8/15/2025,Stray In,9/3/2025,Adoption,20,20,10
+CCL-A-8412,Processor,Cat,Domestic Shorthair,,5/1/2025,Kitten (6 weeks-5 months),Deceased,N/A,8/15/2025,Stray In,9/8/2025,Unassisted Death in Custody,25,25,15
+CCL-A-8413,Monitor,Cat,Domestic Medium Hair,,5/1/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Rebecca Phelps,8/15/2025,Stray In,9/4/2025,Adoption,21,21,11
+CCL-A-8414,Hard Drive,Cat,Domestic Medium Hair,,5/1/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Amanda Rennie,8/15/2025,Stray In,9/3/2025,Adoption,20,20,10
+CCL-A-8415,Floppy,Cat,Domestic Shorthair,,5/1/2025,Kitten (6 weeks-5 months),On Hold - In Foster,Foster Care: Default Foster,8/15/2025,Stray In,,,90,90,71
+CCL-A-8416,Jolene,Cat,Domestic Shorthair,,4/29/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Ashley Argo,8/18/2025,Stray In,9/10/2025,Adoption,24,24,24
+CCL-A-8417,Crystal,Cat,Domestic Shorthair,,10/29/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Ashley Argo,8/18/2025,Stray In,9/10/2025,Adoption,24,24,24
+CCL-A-8418,Dolly,Cat,Domestic Shorthair,,8/19/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Danielle Lee,8/18/2025,Stray In,8/23/2025,Adoption,6,6,6
+CCL-A-8419,Moon,Cat,Domestic Longhair,,6/20/2022,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Marion Hagstrom,8/20/2025,Stray In,9/21/2025,Adoption,33,33,11
+CCL-A-8406,Speedy,Cat,Domestic Shorthair,,4/28/2025,Kitten (6 weeks-5 months),Available In Shelter,"Catio Cat Lounge, Main Room",8/20/2025,Adoption Return,,,85,85,64
+CCL-A-8420,Teal'c,Cat,Domestic Shorthair,,4/23/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Bree Friedrichs,8/21/2025,Stray In,8/31/2025,Adoption,11,11,11
+CCL-A-8421,Ba'al,Cat,Domestic Shorthair,,4/23/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Bree Friedrichs,8/21/2025,Stray In,8/31/2025,Adoption,11,11,11
+CCL-A-8422,Daniel,Cat,Domestic Shorthair,,4/23/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Jarrod Ramirez,8/21/2025,Stray In,8/29/2025,Adoption,9,9,9
+CCL-A-8395,Ophelia,Cat,Domestic Shorthair,,7/15/2022,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Tyler Young,8/26/2025,Adoption Return,9/8/2025,Adoption,14,14,14
+CCL-A-8423,Berta,Cat,Siamese,,8/23/2017,Senior Cat (8+ years),Healthy In Home,Adopted: Ashley Felts,8/28/2025,Stray In,10/3/2025,Adoption,37,37,37
+CCL-A-8424,Gremlin,Cat,Domestic Longhair,,5/23/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Anna Lister,8/28/2025,Stray In,8/28/2025,Adoption,1,1,1
+CCL-A-8425,Butterbean,Cat,Domestic Longhair,,5/27/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Zachary Wallace,8/29/2025,Stray In,9/1/2025,Adoption,4,4,4
+CCL-A-8426,Lily Pad,Cat,Domestic Longhair,,5/27/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Linda Lance,8/29/2025,Stray In,9/10/2025,Adoption,13,13,13
+CCL-A-8427,Smurf,Cat,Domestic Medium Hair,,5/27/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Elizabeth Kunkel,8/29/2025,Stray In,8/29/2025,Adoption,1,1,1
+CCL-A-8428,Parkour,Cat,Domestic Shorthair,,5/27/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Keara Miller,8/29/2025,Stray In,9/2/2025,Adoption,5,5,5
+CCL-A-8429,Bear,Cat,Domestic Longhair,,5/27/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Zachary Wallace,8/29/2025,Stray In,9/1/2025,Adoption,4,4,4
+CCL-A-8430,Jazz Hands,Cat,Domestic Medium Hair,,5/27/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Elizabeth Kunkel,8/29/2025,Stray In,8/29/2025,Adoption,1,1,1
+CCL-A-8431,Ash,Cat,Russian Blue,,4/23/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Gracie Mofield,9/1/2025,Stray In,10/16/2025,Adoption,46,46,46
+CCL-A-8432,Cletus,Cat,Russian Blue,,4/23/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Gracie Mofield,9/1/2025,Stray In,10/16/2025,Adoption,46,46,46
+CCL-A-8433,Gilbert,Cat,Domestic Longhair,,4/23/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Sahba Meymand,9/1/2025,Stray In,9/6/2025,Adoption,6,6,6
+CCL-A-8434,Jack,Cat,Domestic Shorthair,,4/23/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Emma Walden,9/1/2025,Stray In,9/29/2025,Adoption,29,29,29
+CCL-A-8435,Cash,Cat,Domestic Shorthair,,4/23/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Katelyn Arone,9/1/2025,Stray In,9/15/2025,Adoption,15,15,15
+CCL-A-8436,Wendy,Cat,Domestic Shorthair,,3/5/2025,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Artem Aliev,9/1/2025,Stray In,9/7/2025,Adoption,7,7,7
+CCL-A-8437,Wanda,Cat,Domestic Shorthair,,3/5/2025,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Artem Aliev,9/1/2025,Stray In,9/7/2025,Adoption,7,7,7
+CCL-A-8438,Waylon,Cat,Domestic Shorthair,,3/5/2025,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Emma Walden,9/1/2025,Stray In,9/29/2025,Adoption,29,29,29
+CCL-A-8439,Jiren,Cat,Domestic Shorthair,,5/11/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Bradie Johnson,9/4/2025,Stray In,9/17/2025,Adoption,14,14,14
+CCL-A-8440,Sox,Cat,Domestic Shorthair,,4/15/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Christian Waldrum,9/6/2025,Stray In,11/10/2025,Adoption,66,66,61
+CCL-A-8441,Star,Cat,Domestic Shorthair,,4/15/2025,Kitten (6 weeks-5 months),Available In Shelter,"Catio Cat Lounge, Main Room",9/6/2025,Stray In,,,68,68,63
+CCL-A-8442,SuSu,Cat,Domestic Shorthair,,4/15/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Mazen Istanbouli,9/6/2025,Stray In,9/17/2025,Adoption,12,12,7
+CCL-A-8443,Jimbo,Cat,Domestic Shorthair,,4/15/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Cheryl Montgomery,9/6/2025,Stray In,10/27/2025,Adoption,52,52,51
+CCL-A-8444,Leo,Cat,Domestic Shorthair,,4/15/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Emily  La Chapell,9/6/2025,Stray In,9/16/2025,Adoption,11,11,10
+CCL-A-8445,Sassie,Cat,Domestic Medium Hair,,5/15/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Sierra Anderson,9/6/2025,Stray In,9/7/2025,Adoption,2,2,1
+CCL-A-8446,Spencer,Cat,Domestic Medium Hair,,5/15/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Emily Harkleroad,9/6/2025,Stray In,9/12/2025,Adoption,7,7,6
+CCL-A-8447,Stewart,Cat,Domestic Medium Hair,,5/15/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Brandi Richmond,9/6/2025,Stray In,9/17/2025,Adoption,12,12,11
+CCL-A-8448,Misty Blue,Cat,Domestic Longhair,,7/6/2020,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Nina Metzger,9/6/2025,Stray In,10/3/2025,Adoption,28,28,23
+CCL-A-8449,Ally,Cat,Domestic Shorthair,,5/17/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Felix Choussat,9/6/2025,Stray In,9/17/2025,Adoption,12,12,11
+CCL-A-8450,Billy Mac,Cat,Domestic Shorthair,,5/17/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Tanya Houghton,9/6/2025,Stray In,9/18/2025,Adoption,13,13,12
+CCL-A-8451,JJ,Cat,Domestic Shorthair,,5/13/2025,Kitten (6 weeks-5 months),Available In Shelter,"Catio Cat Lounge, Main Room",9/7/2025,Stray In,,,67,67,67
+CCL-A-8452,Willow,Cat,Domestic Shorthair,,4/28/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Sofia Lago,9/7/2025,Stray In,9/17/2025,Adoption,11,11,11
+CCL-A-8453,Dax,Cat,Domestic Shorthair,,3/30/2025,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Christina McGann,9/8/2025,Stray In,10/20/2025,Adoption,43,43,43
+CCL-A-8454,Fig,Cat,Domestic Shorthair,,3/30/2025,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Ayden Patterson,9/8/2025,Stray In,9/26/2025,Adoption,19,19,19
+CCL-A-8455,Lily,Cat,Domestic Shorthair,,7/22/2023,Adult Cat (5 months-8 years),Available In Shelter,"Catio Cat Lounge, Main Room",9/8/2025,Stray In,,,66,66,66
+CCL-A-8456,Pez,Cat,Domestic Shorthair,,3/30/2025,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Chloe Cassidy,9/8/2025,Stray In,10/16/2025,Adoption,39,39,39
+CCL-A-8457,Honeybee,Cat,Domestic Shorthair,,7/22/2024,Adult Cat (5 months-8 years),Available in Foster,Foster Care: Kaitlin Cashion,9/8/2025,Stray In,,,66,66,66
+CCL-A-8458,Sabrina,Cat,Domestic Shorthair,,9/2/2014,Senior Cat (8+ years),Available In Shelter,"Catio Cat Lounge, Senior Room",9/9/2025,Stray In,,,65,65,65
+CCL-A-8459,Sir Purrcival,Cat,Domestic Shorthair,,9/10/2021,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Austin Talbott,9/10/2025,Stray In,10/28/2025,Adoption,49,49,49
+CCL-A-8460,Pua,Cat,Domestic Shorthair,,6/11/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Kensley Feltner,9/11/2025,Stray In,9/16/2025,Adoption,6,6,6
+CCL-A-8461,Tuna,Cat,Domestic Shorthair,,7/6/2023,Adult Cat (5 months-8 years),Available In Shelter,"Catio Cat Lounge, Foster to Adopt",9/11/2025,Owner Surrender,,,63,63,8
+CCL-A-8462,Cooper,Cat,Domestic Medium Hair,,4/23/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Timothy Spangler,9/12/2025,Stray In,10/24/2025,Adoption,43,43,42
+CCL-A-8463,Asher,Cat,Domestic Shorthair,,4/23/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Carrie Raymond,9/12/2025,Stray In,10/10/2025,Adoption,29,29,28
+CCL-A-8464,Sweetheart,Cat,Domestic Shorthair,,4/23/2025,Kitten (6 weeks-5 months),Foster to Adopt,Foster Care: Desiree Lynch,9/12/2025,Stray In,,,62,38,37
+CCL-A-8465,Buster,Cat,Domestic Shorthair,,4/18/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Richard Beauchamp,9/12/2025,Stray In,9/29/2025,Adoption,18,18,17
+CCL-A-8466,Blitz,Cat,Domestic Shorthair,,4/18/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Richard Beauchamp,9/12/2025,Stray In,9/29/2025,Adoption,18,18,17
+CCL-A-8411,USB,Cat,Domestic Shorthair,,5/1/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Hayden Brammer,9/16/2025,Adoption Return,10/11/2025,Adoption,26,26,26
+CCL-A-8467,Percy,Cat,Domestic Shorthair,,2/14/2024,Adult Cat (5 months-8 years),Available In Shelter,"Catio Cat Lounge, Main Room",9/16/2025,Stray In,,,58,58,58
+CCL-A-8176,Swish,Cat,Domestic Shorthair,,8/4/2024,Adult Cat (5 months-8 years),Available In Shelter,"Catio Cat Lounge, Main Room",9/18/2025,Adoption Return,,,56,56,56
+CCL-A-8470,Cheeto,Cat,Domestic Shorthair,,5/26/2025,Kitten (6 weeks-5 months),Unavailable in Shelter - Medical,"Catio Cat Lounge, Room 2",9/18/2025,Stray In,,,56,56,44
+CCL-A-8471,Tippie,Cat,Domestic Shorthair,,5/26/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Amanda Rennie,9/18/2025,Stray In,9/20/2025,Adoption,3,3,3
+CCL-A-8450,Billy Mac,Cat,Domestic Shorthair,,5/17/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Tanya Houghton,9/20/2025,Adoption Return,10/27/2025,Adoption,38,38,38
+CCL-A-8472,Hobbit,Cat,Domestic Shorthair,,4/6/2025,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Carrie Raymond,9/22/2025,Stray In,10/10/2025,Adoption,19,19,19
+CCL-A-8473,Ganbals,Cat,Domestic Shorthair,,4/6/2025,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Keona Lee,9/22/2025,Stray In,10/3/2025,Adoption,12,12,12
+CCL-A-8474,Juneau (Juno/JUJU),Cat,Domestic Shorthair,,9/24/2019,Adult Cat (5 months-8 years),Available In Shelter,"Catio Cat Lounge, Senior Room",9/24/2025,Stray In,,,50,50,26
+CCL-A-8476,Tigger,Cat,Domestic Shorthair,,9/20/2015,Senior Cat (8+ years),Healthy In Home,Adopted: Rachael Foell,9/25/2025,Stray In,11/3/2025,Adoption,40,40,39
+CCL-A-8477,Cricket,Cat,Domestic Shorthair,,3/16/2025,Adult Cat (5 months-8 years),Available In Shelter,"Catio Cat Lounge, Main Room",9/25/2025,Stray In,,,49,49,11
+CCL-A-8478,Nanny/Manny,Cat,Domestic Shorthair,,3/16/2025,Adult Cat (5 months-8 years),Available In Shelter,"Catio Cat Lounge, Main Room",9/25/2025,Stray In,,,49,49,11
+CCL-A-8479,Noodle,Cat,Domestic Shorthair,,3/16/2025,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Cameron Petty,9/25/2025,Stray In,11/11/2025,Adoption,48,48,10
+CCL-A-8480,Howie,Cat,Domestic Shorthair,,5/4/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Michelle Bootier,9/26/2025,Stray In,10/16/2025,Adoption,21,21,21
+CCL-A-8481,Julius,Cat,Domestic Shorthair,,5/4/2025,Kitten (6 weeks-5 months),Available In Shelter,"Catio Cat Lounge, Main Room",9/26/2025,Stray In,10/5/2025,Adoption,10,10,10
+CCL-A-8482,Cassie,Cat,Domestic Shorthair,,5/1/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Chloe Cassidy,9/26/2025,Stray In,10/16/2025,Adoption,21,21,21
+CCL-A-8483,Carrot,Cat,Domestic Shorthair,,5/1/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Sarah Schumacher,9/26/2025,Stray In,10/11/2025,Adoption,16,16,16
+CCL-A-8484,Murphy,Cat,Domestic Shorthair,,5/27/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Erin Rawlins,9/26/2025,Stray In,11/6/2025,Adoption,42,42,42
+CCL-A-8485,Sara,Cat,Domestic Shorthair,,5/27/2025,Kitten (6 weeks-5 months),Available In Shelter,"Catio Cat Lounge, Main Room",9/26/2025,Stray In,,,48,48,37
+CCL-A-8486,Shelia,Cat,Domestic Shorthair,,5/27/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Elisabeth Sandberg,9/26/2025,Stray In,11/3/2025,Adoption,39,39,39
+CCL-A-8487,Sassy,Cat,Domestic Shorthair,,6/21/2022,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Preston Aldrich,9/28/2025,Owner Surrender,10/11/2025,Adoption,14,14,14
+CCL-A-8488,Gracie,Cat,Siamese,,9/29/2010,Senior Cat (8+ years),Unavailable in Shelter - Medical,"Donelson Animal Hospital, Sick Kennels",9/29/2025,Owner Surrender,,,45,45,0
+CCL-A-8358,Baby,Cat,Domestic Shorthair,,4/25/2025,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Connor Baucom,9/29/2025,Adoption Return,11/3/2025,Adoption,36,36,36
+CCL-A-8489,Jiggy June,Cat,Domestic Shorthair,,7/23/2024,Adult Cat (5 months-8 years),Available In Shelter,"Catio Cat Lounge, Main Room",9/30/2025,Stray In,,,44,44,44
+CCL-A-8490,Ruby,Cat,Domestic Shorthair,,10/9/2015,Senior Cat (8+ years),Available In Shelter,"Catio Cat Lounge, Main Room",9/30/2025,Stray In,,,44,44,29
+CCL-A-8491,Jasper (Alexander),Cat,Domestic Shorthair,,7/15/2022,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Douglas Reilly,10/2/2025,Owner Surrender,10/3/2025,Adoption,2,2,2
+CCL-A-8492,Willow (Myrtle),Cat,Domestic Shorthair,,7/15/2022,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Douglas Reilly,10/2/2025,Owner Surrender,10/3/2025,Adoption,2,2,2
+CCL-A-8493,Velcro,Cat,Domestic Shorthair,,6/12/2025,Unweaned (0-6 weeks),Unavailable Foster - Too Young,Foster Care: Autumn Jackson,7/10/2025,Stray In,,,126,0,0
+CCL-A-8494,Fire Cracker,Cat,Domestic Shorthair,,6/12/2025,Unweaned (0-6 weeks),Unavailable Foster - Too Young,Foster Care: Autumn Jackson,7/10/2025,Stray In,,,126,0,0
+CCL-A-8495,Tetra,Cat,Domestic Medium Hair,,6/9/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Katelyn Baker,9/4/2025,Stray In,11/12/2025,Adoption,70,8,8
+CCL-A-8497,Luna,Cat,Domestic Shorthair,,7/3/2025,Kitten (6 weeks-5 months),Deceased,N/A,10/3/2025,Owner Surrender,10/16/2025,Euthanasia,14,14,10
+CCL-A-8498,Junior,Cat,Domestic Shorthair,,7/18/2025,Kitten (6 weeks-5 months),Awaiting Transport,"Catio Cat Lounge, Waiting on Transport from Foster",10/5/2025,Stray In,,,39,39,0
+CCL-A-8499,Junior,Cat,Domestic Shorthair,,7/18/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Christina McGann,10/5/2025,Stray In,10/20/2025,Adoption,16,16,11
+CCL-A-8500,Bizzy,Cat,Domestic Shorthair,,7/18/2025,Kitten (6 weeks-5 months),Awaiting Transport,"Catio Cat Lounge, Waiting on Transport from Foster",10/5/2025,Stray In,,,39,39,0
+CCL-A-8501,Slay,Cat,Domestic Shorthair,,7/18/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Katherine Bradberry,10/5/2025,Stray In,10/19/2025,Adoption,15,15,10
+CCL-A-8502,Yogi,Cat,Domestic Shorthair,,7/18/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Katherine Bradberry,10/5/2025,Stray In,10/19/2025,Adoption,15,15,10
+CCL-A-8503,Polka,Cat,Domestic Shorthair,,3/30/2025,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Lisa Adams,10/6/2025,Stray In,10/20/2025,Adoption,15,15,5
+CCL-A-8504,Pugsley,Cat,Domestic Shorthair,,7/25/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Kendall Bowser,10/10/2025,Stray In,10/20/2025,Adoption,11,11,9
+CCL-A-8505,Tish,Cat,Domestic Shorthair,,7/25/2025,Kitten (6 weeks-5 months),Available In Shelter,"Catio Cat Lounge, Main Room",10/10/2025,Stray In,,,34,34,32
+CCL-A-8506,Wednesday,Cat,Domestic Shorthair,,7/25/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Avery Merritt,10/10/2025,Stray In,10/28/2025,Adoption,19,19,17
+CCL-A-8507,Jason,Cat,Domestic Shorthair,,11/14/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Robert Cobb,10/14/2025,Stray In,11/3/2025,Adoption,21,21,21
+CCL-A-8508,Zena,Cat,Snowshoe,,10/9/2024,Adult Cat (5 months-8 years),Awaiting Transport,"Catio Cat Lounge, Waiting on Transport from Foster",10/17/2025,Stray In,,,27,27,0
+CCL-A-8509,Tippy,Cat,Domestic Shorthair,,10/11/2024,Adult Cat (5 months-8 years),Available In Shelter,"Catio Cat Lounge, Main Room",10/19/2025,Stray In,,,25,25,25
+CCL-A-8510,Tommy,Cat,Domestic Shorthair,,10/11/2024,Adult Cat (5 months-8 years),Available In Shelter,"Catio Cat Lounge, Main Room",10/19/2025,Stray In,,,25,25,25
+CCL-A-8511,Lola,Cat,Domestic Shorthair,,5/16/2025,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Norma Yoos,10/19/2025,Stray In,10/27/2025,Adoption,9,9,9
+CCL-A-8512,Parry Ferol,Cat,Domestic Medium Hair,,4/16/2022,Adult Cat (5 months-8 years),Unavailable in Shelter - Medical,"Catio Cat Lounge, Room 2",10/19/2025,Stray In,,,25,25,8
+CCL-A-8513,Sox,Cat,Domestic Shorthair,,9/23/2024,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Kyle Straw,10/19/2025,Stray In,10/27/2025,Adoption,9,9,9
+CCL-A-8514,Tori,Cat,Domestic Longhair,,4/16/2025,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Andra Sager,10/19/2025,Stray In,11/7/2025,Adoption,20,20,9
+CCL-A-8515,India,Cat,Domestic Shorthair,,5/7/2025,Adult Cat (5 months-8 years),Available In Shelter,"Catio Cat Lounge, Main Room",10/26/2025,Stray In,,,18,18,18
+CCL-A-8516,Olivia,Cat,Domestic Shorthair,,5/7/2025,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Jena Galster,10/26/2025,Stray In,11/4/2025,Adoption,10,10,10
+CCL-A-8517,Slate,Cat,Domestic Shorthair,,5/7/2025,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Desiree Hunter,10/26/2025,Stray In,11/3/2025,Adoption,9,9,9
+CCL-A-8518,Sammy,Cat,Domestic Shorthair,,5/7/2025,Adult Cat (5 months-8 years),Healthy In Home,Adopted: Desirea Madatian,10/26/2025,Stray In,11/4/2025,Adoption,10,10,10
+CCL-A-8519,Tsunami,Cat,Domestic Shorthair,,3/14/2024,Adult Cat (5 months-8 years),Available In Shelter,"Catio Cat Lounge, Main Room",10/23/2025,Stray In,,,21,21,10
+CCL-A-8481,Julius,Cat,Domestic Shorthair,,5/4/2025,Adult Cat (5 months-8 years),Available In Shelter,"Catio Cat Lounge, Main Room",10/26/2025,Adoption Return,,,18,18,18
+CCL-A-8520,Stardust,Cat,Domestic Shorthair,,6/15/2025,Kitten (6 weeks-5 months),Available In Shelter,"Catio Cat Lounge, Main Room",10/27/2025,Stray In,,,17,17,17
+CCL-A-8521,Orion,Cat,Domestic Shorthair,,5/27/2025,Adult Cat (5 months-8 years),Available In Shelter,"Catio Cat Lounge, Main Room",10/27/2025,Stray In,,,17,17,11
+CCL-A-8522,Mancini,Cat,Domestic Shorthair,,8/13/2025,Kitten (6 weeks-5 months),Available In Shelter,"Catio Cat Lounge, Main Room",10/27/2025,Stray In,,,17,17,17
+CCL-A-254,Semolina,Cat,Domestic Longhair,,8/3/2016,Senior Cat (8+ years),Healthy In Home,Adopted: Alli Watts,11/2/2025,Adoption Return,11/11/2025,Adoption,10,10,10
+CCL-A-8523,Mr. Handsome,Cat,Domestic Shorthair,,10/27/2021,Adult Cat (5 months-8 years),Available In Shelter,"Catio Cat Lounge, Senior Room",10/31/2025,Stray In,,,13,13,13
+CCL-A-8524,Liza Ann,Cat,Domestic Longhair,,10/22/2017,Senior Cat (8+ years),Available In Shelter,"Catio Cat Lounge, Senior Room",11/4/2025,Stray In,,,9,9,7
+CCL-A-8525,Cletus,Cat,Domestic Shorthair,,11/5/2023,Adult Cat (5 months-8 years),Available In Shelter,"Catio Cat Lounge, Main Room",11/4/2025,Stray In,,,9,9,7
+CCL-A-8526,Snow,Cat,Domestic Shorthair,,4/25/2024,Adult Cat (5 months-8 years),Available In Shelter,"Catio Cat Lounge, Foster to Adopt",11/4/2025,Stray In,,,9,9,9
+CCL-A-8527,Cookie Crisp ,Cat,Domestic Shorthair,,9/5/2025,Kitten (6 weeks-5 months),Available In Shelter,"Catio Cat Lounge, Main Room",11/5/2025,Stray In,,,8,8,6
+CCL-A-8528,Wheaties,Cat,Domestic Shorthair,,9/5/2025,Kitten (6 weeks-5 months),Available In Shelter,"Catio Cat Lounge, Main Room",11/5/2025,Stray In,,,8,8,6
+CCL-A-8529,Cap'N Crunch ,Cat,Domestic Shorthair,,9/5/2025,Kitten (6 weeks-5 months),Healthy In Home,Adopted: Ariana Nance,11/5/2025,Stray In,11/11/2025,Adoption,7,7,5
+CCL-A-8530,Frosted Flakes,Cat,Domestic Shorthair,,9/5/2025,Kitten (6 weeks-5 months),Available In Shelter,"Catio Cat Lounge, Main Room",11/5/2025,Stray In,,,8,8,6
+CCL-A-8531,Nash,Cat,Domestic Shorthair,,10/16/2024,Adult Cat (5 months-8 years),Available In Shelter,"Catio Cat Lounge, Main Room",11/11/2025,Stray In,,,2,2,2
