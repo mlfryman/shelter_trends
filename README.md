@@ -115,7 +115,7 @@ jupyter notebook notebooks/shelter_data_analysis.ipynb
 - Add more features (e.g., color, foster, season, adoption fee group).
 - Explore seasonality and event-driven adoption patterns.
 - Integrate Shelterluv API for automated data updates.
-
+- Create web app via Streamlit
 ---
 
 ## 🧑‍💻 Author
