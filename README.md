@@ -34,14 +34,12 @@ Using **Python-based data analytics and visualization**, the notebook demonstrat
 ## 📊 Key Analyses & Results
 
 ### 1. Data Preparation
-Cleaned and merged two datasets:  
-- `SL_data_20251112.csv` (demographics)  
-- `SL_length_of_stay_20251112.csv` (outcomes)
+- Cleaned and merged two datasets:  
+  - `SL_data_20251112.csv` (demographics)  
+  - `SL_length_of_stay_20251112.csv` (outcomes)
+- Standardized date formats and created a new **Length of Stay (days)** column.  
+- Extracted **foster names** using regular expressions (e.g., “Foster: Jane Doe”).  
 
-Standardized date formats and created a new **Length of Stay (days)** column.  
-Extracted **foster names** using regular expressions (e.g., “Foster: Jane Doe”).  
-
----
 
 ### 2. Exploratory Analysis
 
@@ -49,7 +47,6 @@ Extracted **foster names** using regular expressions (e.g., “Foster: Jane Doe�
 - **Length of Stay Distribution:** Histogram showing typical vs. long-term residents.  
 - **Average LOS by Age Group:** Bar chart comparing average stays by age.  
 
----
 
 ### 3. Predictive Modeling
 
@@ -73,7 +70,7 @@ Extracted **foster names** using regular expressions (e.g., “Foster: Jane Doe�
 ---
 
 ## 📂 Project Structure
-
+```
 shelter_trends/
 ├── data/
 │ ├── SL_data_20251112.csv
@@ -82,7 +79,7 @@ shelter_trends/
 │ └── shelter_data_analysis.ipynb
 ├── README.md
 └── requirements.txt
-
+```
 ---
 
 ## 🚀 How to Run
@@ -120,9 +117,9 @@ jupyter notebook notebooks/shelter_data_analysis.ipynb
 
 ## 🧑‍💻 Author
 
-**[Bash Melanie Fryman]** — Data Analyst / Software Developer  
-📫 [bmlf72@gmail.com]  
-💻 [github.com/mlfryman]
+**Bash Melanie Fryman** — Data Analyst / Software Developer  
+📫 bmlf72@gmail.com  
+💻 [github.com/mlfryman](https://github.com/mlfryman)
 
 ---
 
