@@ -1,0 +1,16 @@
+# Data manipulation
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+
+# Jupyter Notebook
+jupyter
+
+# Web App
+streamlit
