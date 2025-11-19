@@ -86,7 +86,7 @@ shelter_trends/
 
 ### 1. Clone the repository:
 ```bash
-git clone https://github.com/<your-username>/shelter_trends.git
+git clone https://github.com/mlfryman/shelter_trends.git
 cd shelter_trends
 ```
 
